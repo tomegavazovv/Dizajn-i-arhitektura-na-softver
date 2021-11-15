@@ -1,0 +1,12 @@
+./filter_amenities.sh restaurant pub fast_food | osmconvert - --all-to-nodes --csv="@id @lon @lat name cuisine opening_hours street smoking" --csv-headline --csv-separator="," | ./filter_null_names.sh > food_data.txt
+
+# filter_amenities ги филтрира податоците кои како вредност за клучот amenity имаат restaurant, pub, fast_food
+# следно со osmconvert ги конвертираме и зачувуваме податоците и потребните колони во txt формат.
+# потоа filter_null_names ги филтрира податоците кои немаат вредност за атрибутот name.
+
+./filter_needed_amenities.sh cafe nightclub bar | osmconvert - --all-to-nodes --csv="@id @lon @lat name opening_hours street outdoor_sitting smoking" --csv-headline --csv-separator="," | ./filter_null_names.sh > drinks_data.txt
+
+# filter_amenities ги филтрира податоците кои како вредност за клучот amenity имаат cafe, nightclub, bar
+# следно со osmconvert ги конвертираме и зачувуваме податоците и потребните колони во txt формат.
+# потоа filter_null_names ги филтрира податоците кои немаат вредност за атрибутот name.   
+
