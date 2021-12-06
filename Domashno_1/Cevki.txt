@@ -1,8 +1,8 @@
 # pipeline 1
-./filter_amenities.sh restaurant pub fast_food | osmconvert - --all-to-nodes --csv="@id @lon @lat name cusine opening_hours street smoking" --csv-headline --csv-separator="," | ./filter_null_names.sh > data_food.txt
+./filter_amenities.sh restaurant pub fast_food | osmconvert - --all-to-nodes --csv="@id @lon @lat name cusine opening_hours addr:street smoking amenity" --csv-headline --csv-separator="," | ./filter_null_names.sh > data_food.txt
 
 # pipeline 2
-./filter_needed_amenities.sh cafe nightclub bar | osmconvert - --all-to-nodes --csv="@id @lon @lat name opening_hours street outdoor_sitting smoking" --csv-headline --csv-separator="," | ./filter_null_names.sh > data_drinks.txt
+./filter_needed_amenities.sh cafe nightclub bar | osmconvert - --all-to-nodes --csv="@id @lon @lat name opening_hours addr:street outdoor_sitting smoking amenity" --csv-headline --csv-separator="," | ./filter_null_names.sh > data_drinks.txt
 
 
 # Првата цевка најпрво со филтерот filter_amenities ги филтрира сите податоци кои како вредност на клучот amenity имаат restaurant, pub или fast_food. 
