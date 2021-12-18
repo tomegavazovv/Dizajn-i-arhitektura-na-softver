@@ -1,0 +1,13 @@
+version: "3"
+services:
+  dians-db:
+    image: "postgres"
+    container_name: "dians_places"
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=pass123
+      - POSTGRES_DB=places
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
