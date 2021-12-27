@@ -3,8 +3,6 @@ package mk.ukim.finki.dians.application.model;
 import lombok.Data;
 
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Data
@@ -12,9 +10,6 @@ import javax.persistence.Id;
 public class City {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-
     private String city;
 
     private double lat;

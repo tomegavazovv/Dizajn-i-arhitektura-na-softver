@@ -23,7 +23,7 @@ public class CityServiceImpl implements CityService {
     }
 
     @Override
-    public Optional<City> findById(Long id) {
+    public Optional<City> findById(String id) {
         return cityRepository.findById(id);
     }
 }

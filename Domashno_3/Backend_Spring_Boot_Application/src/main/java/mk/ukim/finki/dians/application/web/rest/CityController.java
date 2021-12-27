@@ -33,13 +33,13 @@ public class CityController {
     }
 
     @PostMapping("/food/{id}")
-    List<FoodPlace> findFoodPlacesByCity(@PathVariable Long id) {
+    List<FoodPlace> findFoodPlacesByCity(@PathVariable String id) {
         City city = cityService.findById(id).orElseThrow(RuntimeException::new);
         return foodPlaceService.findByCity(city);
     }
 
     @PostMapping("/drink/{id}")
-    List<DrinkPlace> findDrinkPlacesByCity(@PathVariable Long id) {
+    List<DrinkPlace> findDrinkPlacesByCity(@PathVariable String id) {
         City city = cityService.findById(id).orElseThrow(RuntimeException::new);
         return drinkPlaceService.findByCity(city);
     }
