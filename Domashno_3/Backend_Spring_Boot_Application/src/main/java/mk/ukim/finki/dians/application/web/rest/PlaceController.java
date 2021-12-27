@@ -12,12 +12,12 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/places")
-public class PlacesController {
+public class PlaceController {
 
     private final DrinkPlaceService drinkPlaceService;
     private final FoodPlaceService foodPlaceService;
 
-    public PlacesController(DrinkPlaceService drinkPlaceService, FoodPlaceService foodPlaceService) {
+    public PlaceController(DrinkPlaceService drinkPlaceService, FoodPlaceService foodPlaceService) {
         this.drinkPlaceService = drinkPlaceService;
         this.foodPlaceService = foodPlaceService;
     }

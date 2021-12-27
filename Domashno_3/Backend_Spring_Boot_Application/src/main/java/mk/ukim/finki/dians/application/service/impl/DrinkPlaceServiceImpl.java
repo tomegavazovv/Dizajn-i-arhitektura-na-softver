@@ -1,5 +1,6 @@
 package mk.ukim.finki.dians.application.service.impl;
 
+import mk.ukim.finki.dians.application.model.City;
 import mk.ukim.finki.dians.application.model.DrinkPlace;
 import mk.ukim.finki.dians.application.repository.DrinkPlaceRepository;
 import mk.ukim.finki.dians.application.service.DrinkPlaceService;
@@ -19,5 +20,10 @@ public class DrinkPlaceServiceImpl implements DrinkPlaceService {
     @Override
     public List<DrinkPlace> findAll() {
         return drinkPlaceRepository.findAll();
+    }
+
+    @Override
+    public List<DrinkPlace> findByCity(City city) {
+        return drinkPlaceRepository.findAllByCity(city.getLat(), city.getLon());
     }
 }
