@@ -9,4 +9,5 @@ import java.util.List;
 public interface DrinkPlaceService {
     List<DrinkPlace> findAll();
     List<DrinkPlace> findByCity(City city);
+    List<DrinkPlace> findByLocation(double lat, double lon);
 }

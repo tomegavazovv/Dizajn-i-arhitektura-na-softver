@@ -24,6 +24,11 @@ public class DrinkPlaceServiceImpl implements DrinkPlaceService {
 
     @Override
     public List<DrinkPlace> findByCity(City city) {
-        return drinkPlaceRepository.findAllByCity(city.getLat(), city.getLon());
+        return drinkPlaceRepository.findAllByLocation(city.getLat(), city.getLon());
+    }
+
+    @Override
+    public List<DrinkPlace> findByLocation(double lat, double lon) {
+        return drinkPlaceRepository.findAllByLocation(lat, lon);
     }
 }

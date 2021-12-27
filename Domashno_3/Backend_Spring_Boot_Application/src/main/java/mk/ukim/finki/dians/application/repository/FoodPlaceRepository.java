@@ -15,5 +15,5 @@ public interface FoodPlaceRepository extends JpaRepository<FoodPlace, Long> {
             "FROM food_place " +
             "WHERE acos(sin(radians(:Lat)) * sin(radians(lat)) + cos(radians(:Lat)) * cos(radians(lat)) * cos(radians(:Lon) - (radians(lon)))) * 6371 <= 15;",
             nativeQuery = true)
-    List<FoodPlace> findAllByCity(@Param("Lat") double Lat, @Param("Lon") double Lon);
+    List<FoodPlace> findAllByLocation(@Param("Lat") double Lat, @Param("Lon") double Lon);
 }
