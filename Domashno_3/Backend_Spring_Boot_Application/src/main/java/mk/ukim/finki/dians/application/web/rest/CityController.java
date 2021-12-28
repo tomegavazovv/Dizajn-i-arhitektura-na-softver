@@ -6,15 +6,14 @@ import mk.ukim.finki.dians.application.model.FoodPlace;
 import mk.ukim.finki.dians.application.service.CityService;
 import mk.ukim.finki.dians.application.service.DrinkPlaceService;
 import mk.ukim.finki.dians.application.service.FoodPlaceService;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/cities")
+@RequestMapping(value = "/api/cities")
+//@CrossOrigin
+@CrossOrigin(origins = "*")
 public class CityController {
 
     private final CityService cityService;
@@ -27,7 +26,7 @@ public class CityController {
         this.drinkPlaceService = drinkPlaceService;
     }
 
-    @PostMapping()
+    @GetMapping()
     List<City> findAllCities() {
         return cityService.findAll();
     }
