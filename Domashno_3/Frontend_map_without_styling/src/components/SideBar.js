@@ -3,7 +3,7 @@ import { DetailBar } from './DetailBar';
 
 const SideBar = (props) => {
     return(
-        <div style={{position: 'absolute' }}>
+        <div >
             <DetailBar object={props.object}/>
         </div>
     )

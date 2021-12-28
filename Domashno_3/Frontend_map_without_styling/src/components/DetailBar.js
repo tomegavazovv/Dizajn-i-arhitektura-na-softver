@@ -8,19 +8,21 @@ export const DetailBar = (props) => {
 
 
         return (
-            <div style={{marginTop:'150px'}}>
+            <div >
                 {columns.map((c, idx) => {
                     return(
-                    <div style={{marginLeft:'60px'}} key={idx}>
-                        <label>{labels[idx]}</label>
+                    <div style={{backgroundColor:'white', marginBottom:'10px', borderRadius:'10px', height:'50px', width:'90%', marginLeft:'12px'}} key={idx}>
+                        <label style={{fontWeight:'500',marginLeft:'32px' }}>{labels[idx]}</label>
                         <br/>
                         <input className={props.object[c] == '' ? 'unknown' : 'known'}
-                         value={props.object[c] == '' ? 'Unknown' : props.object[c]} readOnly={true}>
+                         value={props.object[c] == '' ? 'Unknown' : props.object[c]} readOnly={true}
+                         style={{borderRadius:'20px', padding:'3px 5px', marginLeft:'30px', border:'0.2px solid #929292'}}>
                         
                         </input>
-                        <hr/>
+                        <br/><br/>
 
                     </div>)
+                    
                 })}
             </div>
         )
