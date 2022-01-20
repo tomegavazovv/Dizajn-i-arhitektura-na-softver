@@ -1,5 +1,5 @@
-# Rest services
-Use the following rest calls to get the desired information, you need to use a GET method for all of them.
+# REST services
+Use the following REST calls to get the desired information, you need to use a GET method for all of them.
 
 ## PlaceController
 
@@ -18,6 +18,8 @@ Replace the [] with specific values, you must include them both to get result.
 
 
 ## CityController
+
+* http://localhost:8080/api/cities - use to get all the cities in the database
 
 * http://localhost:8080/api/cities/food/[cityId] - use to get all the food places within 15km radius in that city
 
