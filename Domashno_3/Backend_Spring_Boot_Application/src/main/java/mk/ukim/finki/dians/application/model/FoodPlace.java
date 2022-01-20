@@ -15,7 +15,7 @@ public class FoodPlace extends Place {
     public FoodPlace() {
     }
 
-    public FoodPlace(double lon, double lat, String name, String opening_hours, String address, String outdoorSitting, String smoking, String amenity, String cuisine) {
+    public FoodPlace(double lon, double lat, String name, String opening_hours, String address, String smoking, String amenity, String cuisine) {
         super(lon, lat, name, opening_hours, address, smoking, amenity);
         this.cuisine = cuisine;
     }

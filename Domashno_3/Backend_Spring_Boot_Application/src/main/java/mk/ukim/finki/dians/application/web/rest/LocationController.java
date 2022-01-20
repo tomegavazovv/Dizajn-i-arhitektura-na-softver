@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@CrossOrigin("http://localhost:3000")
 @RequestMapping("/api/location")
-@CrossOrigin(origins = "http://localhost:3000")
 public class LocationController {
     private final FoodPlaceService foodPlaceService;
     private final DrinkPlaceService drinkPlaceService;
@@ -20,13 +20,14 @@ public class LocationController {
         this.drinkPlaceService = drinkPlaceService;
     }
 
-    @PostMapping("/food")
+    @GetMapping("/food")
     List<FoodPlace> findFoodPlacesByLocation(@RequestParam double lat, @RequestParam double lon) {
         return foodPlaceService.findByLocation(lat, lon);
     }
 
-    @PostMapping("/drink")
+    @GetMapping("/drink")
     List<DrinkPlace> findDrinkPlacesByLocation(@RequestParam double lat, @RequestParam double lon) {
         return drinkPlaceService.findByLocation(lat, lon);
     }
+
 }

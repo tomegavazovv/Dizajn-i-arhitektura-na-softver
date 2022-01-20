@@ -31,4 +31,5 @@ public class FoodPlaceServiceImpl implements FoodPlaceService {
     public List<FoodPlace> findByLocation(double lat, double lon) {
         return foodPlaceRepository.findAllByLocation(lat, lon);
     }
+
 }

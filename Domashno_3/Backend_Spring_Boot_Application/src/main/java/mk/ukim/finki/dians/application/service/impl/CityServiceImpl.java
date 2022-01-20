@@ -26,4 +26,5 @@ public class CityServiceImpl implements CityService {
     public Optional<City> findById(String id) {
         return cityRepository.findById(id);
     }
+
 }

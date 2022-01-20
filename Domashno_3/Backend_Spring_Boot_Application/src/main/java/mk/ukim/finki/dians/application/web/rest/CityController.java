@@ -11,9 +11,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@CrossOrigin("http://localhost:3000")
 @RequestMapping(value = "/api/cities")
-//@CrossOrigin
-@CrossOrigin(origins = "*")
 public class CityController {
 
     private final CityService cityService;
@@ -31,15 +30,15 @@ public class CityController {
         return cityService.findAll();
     }
 
-    @PostMapping("/food/{id}")
-    List<FoodPlace> findFoodPlacesByCity(@PathVariable String id) {
-        City city = cityService.findById(id).orElseThrow(RuntimeException::new);
+    @GetMapping("/food/{cityId}")
+    List<FoodPlace> findFoodPlacesByCity(@PathVariable String cityId) {
+        City city = cityService.findById(cityId).orElseThrow(RuntimeException::new);
         return foodPlaceService.findByCity(city);
     }
 
-    @PostMapping("/drink/{id}")
-    List<DrinkPlace> findDrinkPlacesByCity(@PathVariable String id) {
-        City city = cityService.findById(id).orElseThrow(RuntimeException::new);
+    @GetMapping("/drink/{cityId}")
+    List<DrinkPlace> findDrinkPlacesByCity(@PathVariable String cityId) {
+        City city = cityService.findById(cityId).orElseThrow(RuntimeException::new);
         return drinkPlaceService.findByCity(city);
     }
 

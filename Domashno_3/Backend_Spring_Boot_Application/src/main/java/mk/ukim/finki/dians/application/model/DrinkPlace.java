@@ -13,7 +13,7 @@ public class DrinkPlace extends Place{
     public DrinkPlace() {
     }
 
-    public DrinkPlace(double lon, double lat, String name, String opening_hours, String address, String outdoorSitting, String smoking, String amenity) {
+    public DrinkPlace(double lon, double lat, String name, String opening_hours, String address, String smoking, String amenity) {
         super(lon, lat, name, opening_hours, address, smoking, amenity);
     }
 }

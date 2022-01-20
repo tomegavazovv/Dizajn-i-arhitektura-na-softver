@@ -31,4 +31,5 @@ public class DrinkPlaceServiceImpl implements DrinkPlaceService {
     public List<DrinkPlace> findByLocation(double lat, double lon) {
         return drinkPlaceRepository.findAllByLocation(lat, lon);
     }
+
 }
