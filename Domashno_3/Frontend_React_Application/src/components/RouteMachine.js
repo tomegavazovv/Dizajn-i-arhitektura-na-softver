@@ -12,7 +12,7 @@ const createRoutineMachineLayer = (props) => {
         ],
         itineraryClassName:'dummy',
         lineOptions: {
-            styles: [{ color: "#6FA1EC", weight: 6 }]
+            styles: [{ color: "#6FA1EC", weight: 5 }]
         },
         addWaypoints: false,
         draggableWaypoints: false,
