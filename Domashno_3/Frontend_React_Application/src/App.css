@@ -48,8 +48,6 @@ body{
   }
 }
 
-/* backgroundColor: '#add19e', width: '100%', height: '90%', overflow: 'hidden', marginTop:'50px'  */
-
 #paperTable{
   width: 100%;
   height: 90%;
@@ -233,15 +231,17 @@ body{
 }
 
 .cityFilter{
+  font-size: 16px;
+  background-color: rgb(203, 0, 253);
   left: 25vw;
 }
 
 .smokingFilter{
-  left: 35vw;
+  left: 45vw;
 }
 
 .typeFilter{
-  left: 45vw;
+  left: 35vw;
 }
 
 .terraceFilter{

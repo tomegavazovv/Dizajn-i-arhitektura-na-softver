@@ -1,7 +1,7 @@
 import L from 'leaflet'
 
 export const ClientIcon = new L.Icon({
-    iconUrl: require('../data/clientLoc.png'),
+    iconUrl: require('../data/resources/clientLoc.png'),
     iconAnchor: 5,
     popupAnchor: [8, -7],
     shadowUrl: null,

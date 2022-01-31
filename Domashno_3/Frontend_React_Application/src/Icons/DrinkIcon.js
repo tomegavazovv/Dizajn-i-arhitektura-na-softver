@@ -1,7 +1,7 @@
 import L from 'leaflet'
 
 export const DrinkIcon = new L.Icon({
-    iconUrl: require('../data/drinksIcon.png'),
+    iconUrl: require('../data/resources/drinksIcon.png'),
     iconAnchor: 5,
     popupAnchor: [8, -7],
     shadowUrl: null,

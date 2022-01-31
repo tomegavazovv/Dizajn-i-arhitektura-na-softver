@@ -22,6 +22,10 @@ const Map = (props) => {
     const searchNameRef = React.useRef();
     const location = useGeoLocation();
 
+    React.useEffect(() => {
+        setObject(props.showObject)
+    },[])
+
     // Handlers
     function handleMarkerClick(_e, o) {
         const newObj = o;
@@ -44,9 +48,11 @@ const Map = (props) => {
 
     const showLoc = (loc) => {
         if (props.flyTo != '' && map.isInit) {
+            map.instance.setZoom(35)
             map.instance.flyTo(loc)
         }
     }
+
 
     const handleClearButtonClick = () => {
         setRoutingButton(false)
@@ -55,14 +61,13 @@ const Map = (props) => {
 
     return (
         <div>
-            {console.log('mapInstance')}
             <div className='sideBarContainer'>
                 <SideBar ref={searchNameRef} handleShowRouteClick={() => setRoutingButton(true)} 
                 handleSearchNameSubmit={handleSearchNameSubmit} handleLocateMeClick={handleLocateMeClick} 
                 callback={props.callback} columns={TableColumns} object={object} handleClearButtonClick={handleClearButtonClick}/>
             </div>
             <div>
-                <MapContainer whenCreated={m => setMap({ instance: m, isInit: true })} center={[41.9947, 21.4264]} zoom={12}>
+                <MapContainer whenCreated={m => setMap({ instance: m, isInit: true })} center={[41.6086, 21.7453]} zoom={9.4}>
                     <TileLayer tileSize={256} attribution='copy <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 
@@ -87,7 +92,7 @@ const Map = (props) => {
                         <Routing map={map} src={[location.coordinates.lat, location.coordinates.lng]} dst={[object['lat'], object['lon']]} />}
                 </MapContainer>
                 {/* Fly to location if clicked MapIt button from Table View */}
-                {props.flyTo[1] == undefined ? '' : map.isInit ? showLoc([props.flyTo[0], props.flyTo[1]]) : ''}
+                {Object.keys(props.flyTo).length == 0 ? '' : map.isInit ? showLoc([props.flyTo[0], props.flyTo[1]]) : ''}
             </div>
         </div>
     )

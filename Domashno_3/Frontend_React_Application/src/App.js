@@ -2,8 +2,6 @@ import React, { Component } from 'react'
 import Map from './components/Map'
 import './App.css'
 import Table from './components/Table'
-import axis from './components/Axios'
-import { data } from './data/data'
 import { FilterByName } from './filters/FilterByName'
 import { MainFilter } from './filters/MainFilter'
 import NavBar from './components/NavBar'
@@ -11,6 +9,7 @@ import CityFilter from './components/CityFilter'
 import TypeFilter from './components/TypeFilter'
 import TerraceFilter from './components/TerraceFilter'
 import SmokingFilter from './components/SmokingFilter'
+import { cityData } from './data/FetchCityData'
 
 class App extends Component {
   constructor(props) {
@@ -18,28 +17,27 @@ class App extends Component {
     this.state = {
       searchName: "",
       mapViewButtonClicked: true,
-      appData: data,
+      appData: [],
+      showObject: {},
     }
   }
 
   // Handlers
   changeSearchName = (newSearchName) => {
-    var filteredData = []
-    if (newSearchName == "")
-      filteredData = this.filterData(data)
-    else
-      filteredData = FilterByName(newSearchName, this.state.appData)
-    this.setState({ ...this.state, searchName: newSearchName, appData: filteredData })
+    this.setState({
+      ...this.state, 
+      searchName: newSearchName
+    })
   }
 
   handleGoButtonClick = (name, loc) => {
-    var filtered = FilterByName(name, this.state.appData)
+    var obj = FilterByName(name, this.state.appData)[0]
     if (name != undefined)
       this.setState({
         ...this.state,
         location: loc,
         mapViewButtonClicked: true,
-        appData: filtered
+        showObject:obj
       })
   }
 
@@ -74,8 +72,15 @@ class App extends Component {
   }
 
   handleCityFilter = (e) => {
-    // todo
-    console.log(e.target.value)
+    cityData(e.target.value)
+      .then(res => {
+        var loc = this.state.locationSet==true ? [] : res[0]
+        this.setState({
+          ...this.state,
+          appData:res,
+          cityLoc: [loc[0], loc[1]],
+        })
+      })
   }
 
   checkViewmapViewButtonClicked = (e) => {
@@ -84,7 +89,7 @@ class App extends Component {
   }
 
   filterData = (toFilter) => {
-    return MainFilter(this.state.smoking, this.state.type, this.state.terrace, toFilter)
+    return MainFilter(this.state.smoking, this.state.type, this.state.terrace, this.state.searchName, toFilter)
   }
 
   render() {
@@ -97,7 +102,7 @@ class App extends Component {
         <TerraceFilter changeHandler={this.handleTerraceFilter} />
         <SmokingFilter changeHandler={this.handleSmokingFilter} />
         {this.state.mapViewButtonClicked ?
-          <Map flyTo={flyTo} callback={this.changeSearchName} data={this.filterData(this.state.appData)} /> :
+          <Map showObject={this.state.showObject} flyTo={flyTo} callback={this.changeSearchName} data={this.filterData(this.state.appData)} /> :
           <Table handleMapItButtonClick={this.handleGoButtonClick} data={this.filterData(this.state.appData)} />}
       </div>
     )

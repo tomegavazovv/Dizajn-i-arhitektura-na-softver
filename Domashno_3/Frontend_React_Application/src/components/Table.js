@@ -52,7 +52,7 @@ const StickyHeadTable = (props) => {
                                             return (
                                                 <TableCell key={column.id} align={column.align}
                                                     style={{ fontWeight: column.font, fontSize: column.size, overflow: 'hidden', whiteSpace: 'nowrap' }}>
-                                                    {value == '' ? '/' : value}
+                                                    {value == null ? '/' : value}
                                                 </TableCell>
                                             );
                                         })}
