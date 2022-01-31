@@ -1,0 +1,1188 @@
+﻿id,lon,lat,name,cuisine,opening_hours,address,smoking,amenity
+1,21.4355937,41.9950681,Ирски паб Св. Патрик,,10:00-24:00  Fr-Sa 10:00-01:00,Кеј 13 Ноември,separated,pub
+2,21.4315704,41.9953933,Пелистер,italian,Mo-Th 07:00-00:00; Fr-Sa 07:00-01:00; Su 10:30-00:00,Плоштад Македонија,,restaurant
+3,21.3918782,41.9985413,Лап Лап,,,,,fast_food
+4,22.0215553,41.4347276,Brioni,,,,,restaurant
+5,22.0115107,41.4412063,Ramazzoti,,,,,restaurant
+6,22.0096102,41.4410295,Exclusive,,,,,restaurant
+7,22.7220346,41.1844141,Фук Так,fish;grill,,,,restaurant
+8,21.4140669,41.9947432,Интермецо,,,,,restaurant
+9,21.2485747,41.368101,Скар,italian_pizza;regional;balkan,,,,restaurant
+10,21.2486257,41.3681312,Бенетон,,,,,restaurant
+11,21.2151321,41.5065603,Cardak,chicken;diner;regional;pancake;sausage;coffee_shop;ice_cream;balkan;mediterranean;burger;fish;breakfast;grill,Mo-Su 08:00-02:00,,,restaurant
+12,21.2177087,41.5075223,Lisec,,,,,restaurant
+13,21.2442677,41.541066,Пешна,fish,,,,restaurant
+14,22.0111128,41.4412564,Kico,,,,,restaurant
+15,22.0135418,41.4407867,Riben restorant,,,,,restaurant
+16,22.0116142,41.4331716,Aleksandrija,regional,,,,restaurant
+17,21.2160292,41.5081589,Kaj Mame,,,,,restaurant
+18,22.0121336,41.4411582,Spandja,,,,,restaurant
+19,21.4438183,41.9768256,Журнал,,,,,restaurant
+20,22.4125757,41.9153534,Пролет,,,,,restaurant
+21,22.4062744,41.9596507,Градче,regional,,,,restaurant
+22,22.410796,41.9170217,Сендвичара Азман,sandwich;burger,,,,fast_food
+23,22.6230389,41.8339517,Ribnik Blatec,,,,,restaurant
+24,21.4871217,42.0072516,Hunter’s Lodge “Kamnik”,steak_house,,,,restaurant
+25,21.4307036,42.0047876,Под Кале,,,,,restaurant
+26,21.4342799,41.9943261,Кај Џино,italian,Mo 08:00-24:00  Tu We Fr Sa 09:00-24:00  Th 09:00-23:00  Su 09:00-01:00,,outside,restaurant
+27,21.4350117,41.9952456,Плаза де Торос,latin_american,,Кеј 13 Ноември,,restaurant
+28,22.6502444,41.4392415,Luna 2,,,,,restaurant
+29,22.6379105,41.4395826,23,,,,,fast_food
+30,22.6490943,41.4385145,Bakers,,,,,fast_food
+31,21.4268596,42.0003611,Жито Леб,,,,,fast_food
+32,22.0953457,41.4895975,Rubiko,regional,,,,restaurant
+33,21.9522494,41.5237914,Kaj Zika,regional,,,,restaurant
+34,22.0136796,41.4337258,Makedonska Kuka,regional,,,,restaurant
+35,22.0137691,41.4339698,Fast Food,burger,,,,fast_food
+36,22.0117213,41.4336468,Toskano,,,,,pub
+37,21.3995191,42.0031464,Енрико,italian,,,,restaurant
+38,22.8645,41.69802,Мило,,,,,restaurant
+39,22.86112,41.70425,Јуовец,,,,,pub
+40,22.85985,41.70396,Ристово Меанче 2,,,,,restaurant
+41,22.8571233,41.7045671,Мрс,,,,,restaurant
+42,22.9354984,41.7301724,Дивине,,,,,restaurant
+43,22.0187521,41.4389417,Moneta,,,,,restaurant
+44,20.7819982,40.9615847,Сен Тропе,,,,,restaurant
+45,22.0116563,41.4341433,Marilyn,,,,,fast_food
+46,22.0157848,41.4345938,Marilyn,,,,,fast_food
+47,20.7329999,41.641262,Старото Бачило,,,,,pub
+48,20.7161824,41.632758,Галичко Бачило,,,,,pub
+49,20.721296,41.6368854,Трифкова Колиба,,,,,fast_food
+50,21.4302534,41.9957302,London Pub,,,Никола Вапцаров,,pub
+51,22.7242971,41.180711,Нота,fish,,,,restaurant
+52,20.6762151,41.1769374,Т'ГА ЗА ЈУГ,regional,,15 Корпус,,restaurant
+53,20.676795,41.1778398,Bonaca,,,,,restaurant
+54,21.4349372,42.0198926,Prince,,,,,restaurant
+55,20.5689314,42.1661221,Restaurant Drini,,,,,restaurant
+56,20.5722594,42.1671439,Restaurant Liqeni,fish;local;coffee_shop,,,,restaurant
+57,20.5759428,42.1674934,Restaurant Iliria,,,,,restaurant
+58,20.5759053,42.1664391,Restaurant Vermica,,,,,restaurant
+59,20.5777372,42.1664928,Restaurant Mifabeli,,,,,restaurant
+60,20.6205975,42.1733908,Restaurant Hako,international,,,,restaurant
+61,20.9097216,42.1766459,Restaurant Sharr,,,,,restaurant
+62,20.9124491,42.1770309,Restaurant muti,,,,,restaurant
+63,20.9630187,42.1745001,Koha,,,Prizren-Doganaj,,restaurant
+64,20.9625064,42.1735188,Sharra,,,,,restaurant
+65,20.6503595,42.1909133,Restaurant Kështjella,,,,,restaurant
+66,20.6577769,42.1954798,Hotel Residence,,,,,restaurant
+67,20.6688273,42.1985519,Restaurant Moni,,,,,restaurant
+68,20.7857037,42.2718669,Motel Piknik,,,,,restaurant
+69,21.3926682,42.0028498,Две капки,,,Хелсинки,,restaurant
+70,21.4368796,41.9869006,иВ,,,,,restaurant
+71,20.7441841,42.2128412,Menzil,,,,,restaurant
+72,21.3533345,41.0364578,Арена,,,,,restaurant
+73,22.6920471,42.2759989,Вилата на генерала,,,,,restaurant
+74,21.4367576,42.0003099,Туpиcт,regional,,,,restaurant
+75,22.0333387,41.397022,Tropic,,,,,restaurant
+76,22.004638,41.4347168,Moskva,,,,,restaurant
+77,21.4313196,41.98705,four seasons,pizza,,,,fast_food
+78,21.4597832,41.9896275,Fast food 7,,,,,fast_food
+79,22.1921751,41.7368665,Даблин,,,,,pub
+80,22.1942983,41.7382806,Square pub,,,,,pub
+81,22.1934589,41.7371381,Bambi,,,,,fast_food
+82,20.6801971,41.176543,Irish Pub The Harp,,,,,pub
+83,21.1874306,42.1656891,LUMA,burger,,,,restaurant
+84,20.9731075,42.0080851,Maestro Cafe,,,,,restaurant
+85,21.6532178,42.3078028,Restaurant Pizzeria Cassa Mia,,,,,restaurant
+86,21.6558111,42.3045922,"Пицерија ""Лони""",italian,,,,fast_food
+87,21.6479256,42.3102309,Центрум,,,,,restaurant
+88,21.6496208,42.3090288,"Restaurant ""Gorenje""",,,,,restaurant
+89,21.6521572,42.3054433,The Club,,,,,pub
+90,21.6527565,42.3085843,BBC,,,,,restaurant
+91,20.6499767,42.0615462,Saranda,,,,,restaurant
+92,21.3274583,41.9953819,River Side Garden,international,,,,restaurant
+93,20.7383542,42.2177495,"Pizzeria Furra ""ALTINA""",,,,,restaurant
+94,21.4175412,42.0011509,Кафе Кино Карпош,,,,,pub
+95,21.4173939,42.0008922,Сендвичара Попе,sandwich,,,,fast_food
+96,21.4122694,41.9979155,Топаз,,,Рузвелтова,,restaurant
+97,21.3989291,42.000855,Веки,,,Варшавска,,restaurant
+98,21.4960141,42.0013936,Велково Меанче,,,,,restaurant
+99,21.4390455,41.9841333,Чешма,,,,,restaurant
+100,21.4455687,41.9710708,Ресторан Трпеза,,,,,restaurant
+101,21.4385091,41.9787578,Ресторан Кум,,,,,restaurant
+102,21.4078483,41.9997295,Рустикана,burger;regional;breakfast;grill;mediterranean;balkan;chicken;kebab,Mo-Su 10:00-00:00,Римска,,restaurant
+103,21.415982,41.9985008,Боеми,,,,,restaurant
+104,21.4217901,41.9990725,Гирадико,kebab,,,,fast_food
+105,21.3462963,42.0464013,Restoran Tomi,regional,,,,restaurant
+106,21.3508185,42.0299906,Meraklii,regional,,,,restaurant
+107,21.3695897,42.0078102,Пинк,,,,,fast_food
+108,21.4700306,41.591053,Ѕидан Мост,,,,,restaurant
+109,21.4820381,41.9782792,Ресторан Рагуза 919,,,,,restaurant
+110,21.7162124,42.1329068,Art Cafe CARIGRAD,,,Ilindenska,,pub
+111,21.3975417,42.0035286,Старо Буре,international,,,,restaurant
+112,21.3741187,42.0065185,62,regional,,,,restaurant
+113,22.0228438,41.4334495,Винска Куќа,regional,,,,restaurant
+114,21.7753509,41.7170862,Снупи,,,,,restaurant
+115,21.3528594,41.036449,Аражок,,,,,restaurant
+116,21.3539109,41.036449,Балукс,,,,,restaurant
+117,22.685682,42.2845609,Friends,,,,,restaurant
+118,22.68734,42.28244,гостилница Батенберг,,,България,,restaurant
+119,22.5045562,41.1651121,Јавор Џоко,,,,,restaurant
+120,20.7432888,42.2168419,Hyska,kebab,,,,fast_food
+121,20.7433686,42.2170181,Batjari,burger,,,,fast_food
+122,20.7436015,42.2168329,Linda,,,,,restaurant
+123,21.4871492,41.9843967,Рибен ресторан Рибар (Одисеја),fish,,,,restaurant
+124,21.7777592,41.7176653,Снупи,,,,,restaurant
+125,21.7775232,41.7176332,Официрски,,,,,restaurant
+126,21.7842383,41.7153245,Сина Сала,,,,,restaurant
+127,21.7842139,41.7154688,Розе Сала,,,,,restaurant
+128,21.4150033,41.997012,Конак,,,,,pub
+129,21.4151525,41.9946274,Крчма,,,,,restaurant
+130,21.4204907,41.9904847,Marana,regional,,,,restaurant
+131,21.4245254,41.9947645,Pastel Wine & Dine,international,Mo-Fr 06:30-21:00; Sa 06:30-17:00; Su 06:30-16:00,Булевар Климент Охридски,outside,restaurant
+132,21.4163482,41.9922398,511,italian,,,,restaurant
+133,21.4086601,41.9972291,Акорд,,,,,restaurant
+134,21.7183301,42.1345469,Џу Џу Бургер,,,,,fast_food
+135,21.7173429,42.1338027,Аркадија,,,,,fast_food
+136,21.7204006,42.1365224,Баба Цана,,,,,restaurant
+137,21.4207447,41.9987097,Пицерија Либертас,pizza,,T.C Bunjakovec prv kat lok 36,,restaurant
+138,21.7318423,42.1235585,Корнер,,,,,restaurant
+139,22.819584,41.3811426,Ресторан СОНЦЕ - Restaurant SONCE,regional,,,,restaurant
+140,22.6991213,41.2271802,Хотел Иштатов,,,,,restaurant
+141,21.7181577,42.1317263,Рим-Париз,,,,,restaurant
+142,21.3899358,42.0007595,Лесковачка скара „Вили“,burger,,,,fast_food
+143,21.4456487,41.9775109,Ексклузив,,,,,restaurant
+144,21.4514149,42.0578588,Ресторан „Александар“,,,,,restaurant
+145,21.4523161,42.0537503,Дарвик,,,,,restaurant
+146,21.654958,42.3048323,Loni,,,,,restaurant
+147,21.6546925,42.3050525,Apsolut pub,,,,,pub
+148,21.4647397,42.0019716,Тица - Елени,barbecue,,,,restaurant
+149,21.7187986,42.1373298,Тунел,,,,,pub
+150,21.7192653,42.1366237,W2,,,,,pub
+151,21.4302496,41.9930256,Pizza FRESKO,italian,,Македонија,,fast_food
+152,21.4304595,41.9957062,Тренд,international,,,,restaurant
+153,21.4204158,41.9987513,Дестан,barbecue,Mo-Su 09:00-23:00,Владимир Полежановски,separated,restaurant
+154,21.3995909,42.0034064,Ана Кристи,barbecue,,,,restaurant
+155,21.3992299,42.0017742,Фотка,macedonian,,,,restaurant
+156,21.4275081,41.9936252,Гиро,,,,,fast_food
+157,22.3532041,42.0371055,Осоговски Бисер,regional,,,,restaurant
+158,20.6968187,42.0535699,"Fast-Food ""Ce Babovo""",pizza,,,,fast_food
+159,22.1994416,41.1775397,Момина Чука,regional,,,,restaurant
+160,22.2108324,41.1690988,Марково Бачило,regional,,,,restaurant
+161,22.4698529,41.6337176,Restoran Shampion,,,,,restaurant
+162,22.1639057,42.1826707,Park,fish,,,,restaurant
+163,22.0980414,42.1712493,Гого Монд,fish,,,,restaurant
+164,22.1937687,41.7376171,Piaza Liberta,,,,,restaurant
+165,21.4352156,41.9951834,Карпе дием,,,Кеј 13 Ноември,separated,pub
+166,21.2205193,41.6150472,Извор,fish,,,,restaurant
+167,21.416522,41.9922245,Balila,italian,,,,restaurant
+168,21.4280088,41.9913688,Бифиња - Рамстор,,,,,restaurant
+169,22.2452001,41.4084933,Urban Grill,grill;regional,,,,restaurant
+170,22.2436498,41.4098049,AS,,,,,fast_food
+171,22.2432474,41.4098411,Kaj Kole,,,,,restaurant
+172,22.2439153,41.4092999,Lovec,pizza;regional,,,,restaurant
+173,22.2329754,41.4141902,Queen Maria,,,,,restaurant
+174,21.4059587,42.0015351,Вили,,,,,fast_food
+175,22.1818453,41.9940411,Irish Pub Belfast,,,,,pub
+176,20.7413455,42.211802,Sofra,regional,,Adem Jashari,,restaurant
+177,20.7198664,42.2176464,Salloni dasmave Metropol,regional,,,,restaurant
+178,20.7275332,42.2209178,Restaurant SHARRI,international,,,,restaurant
+179,21.4252581,42.0001581,Бруклински,,,Орце Николов,separated,restaurant
+180,20.84678,42.1707254,Restaurant Villa Park,,,,,restaurant
+181,20.8486683,42.1706677,Restaurant Shtëpia e Bardhë,,,,,restaurant
+182,21.4347685,41.9953199,Бела виста,international,10:00-24:00  Fr-Sa 10:00-01:00,Кеј 13 Ноември,,restaurant
+183,20.7342379,42.2105745,Han Plus Fast Food,,,Remzi Ademaj,,fast_food
+184,21.9231892,40.9689738,Το Χωριάτικο,greek,,,,restaurant
+185,21.9445718,40.9715094,Το Παραδοσιακό,greek,,,,restaurant
+186,21.9433541,40.9705494,Υδρόλιθος,international,,,,restaurant
+187,20.8540545,41.6714481,Стража,,,,,fast_food
+188,20.8544996,41.6714632,Стража,,,,,restaurant
+189,21.5546262,41.3459768,Каспер,,,,,restaurant
+190,21.5543097,41.3453989,Пинк Пантер,,,,,restaurant
+191,21.5543797,41.3460137,Парадизо,,,,,restaurant
+192,21.4080594,41.993167,Два Елена,,,,,restaurant
+193,20.8016318,41.076418,Македонска куќа,,,,,restaurant
+194,22.4104224,41.9176668,Капри,,,,,restaurant
+195,21.3356564,41.0295644,Pizza Metro,pizza,,,,restaurant
+196,21.3353453,41.0296756,SM-Sport,,,,,fast_food
+197,21.3368286,41.0256207,Пицерија Лео,,,,,restaurant
+198,22.4104385,41.9172558,Aquarium,,,,,restaurant
+199,22.4102588,41.918076,Balkanlux,,,,,restaurant
+200,22.4101783,41.9187207,Bakery Kamel,,,,,restaurant
+201,21.4302915,41.9952825,Арабеска,regional,,,,restaurant
+202,21.3323916,42.003391,Ореов Лад,macedonian,,,,restaurant
+203,21.2993843,41.9502955,Кањон Матка,regional,,,,restaurant
+204,21.2961533,41.9610975,Манастирска пештера,regional,,,,restaurant
+205,20.9594822,41.5118075,Gallery,italian;pizza;regional,,,,restaurant
+206,22.5011779,41.146047,ТДЦ-3,,,,,restaurant
+207,22.8753161,40.9946053,Μεζέ-μεζέ,,,,,restaurant
+208,20.8123651,41.1084477,Restoran Gros,,,,,restaurant
+209,20.8148703,41.1028959,Ресторан Билјанини Извори,,,,,restaurant
+210,20.8081755,41.1048119,Big Pi,,,,,fast_food
+211,20.8001299,41.1135504,Pink Panter,,,,,fast_food
+212,20.9508952,41.5115542,Atva,regional,,,,restaurant
+213,22.6452777,41.4378354,Вкус,regional,,Гоце Делчев,,restaurant
+214,22.4963093,41.1622759,Јавор Агапи,,,,,restaurant
+215,21.4117168,42.0131608,Фиш,fish,,,,restaurant
+216,22.6328921,41.4352537,Loven Dom,regional,,Neretva,,restaurant
+217,21.4330638,41.9855468,Go Get Burger,,,,,fast_food
+218,21.862568,42.1574944,Етно Село,regional,,,,restaurant
+219,21.8645555,42.1324603,Fratelis,fish,,,,restaurant
+220,22.0130335,41.4327641,Buki,,,,,restaurant
+221,22.9422359,41.7297622,Идила,,,,,restaurant
+222,22.3059103,42.1902652,Борче,regional,,Konopnica,,restaurant
+223,22.3089155,42.192289,Облаче,regional,,,,restaurant
+224,22.3466279,42.2123127,македонија,regional,,Marshal Tito,,restaurant
+225,21.4727082,41.9650429,Градина,,,,,restaurant
+226,21.4343506,41.9954474,Casa Cubana,,10:00-24:00  Fr-Sa 10:00-01:00,Кеј 13 Ноември,outside,pub
+227,20.8011769,41.1123103,Белведере,regional,,,outside,restaurant
+228,21.4145137,42.0051241,Сокаче,,08:00 - 00:00,Драган Ѓаконовски Шпато,,restaurant
+229,20.958638,41.986155,Emka,regional,,Илинденска,yes,restaurant
+230,20.7408761,42.2088821,Besimi Beska,,,,,restaurant
+231,20.7432568,42.2098998,Ambient,,,,,restaurant
+232,21.4167758,42.0035281,DM Restaurant,regional,10:00-00:00,Орце Николов,,fast_food
+233,21.4522729,41.9914536,Every Day,,,,,restaurant
+234,21.4635675,41.9893772,Лесковачка Вили,,,,,fast_food
+235,22.5889401,42.0244107,Шизик,,,,,restaurant
+236,22.587663,42.0179585,Osmica,regional,,,,restaurant
+237,22.5914449,42.0170338,Kaj Govedoto Restaurant,balkan;regional,,,isolated,restaurant
+238,22.5886582,42.0178835,Shizik Restaurant,regional;pizza;kebab;chicken,,,outside,restaurant
+239,22.5899229,42.0195336,Koko Restaurant,kebab;regional;barbecue,,,outside,restaurant
+240,20.8016787,41.0678423,Prestol,,07:00-21:00,,,restaurant
+241,20.8009009,41.0666434,Granit,,,,,restaurant
+242,20.8002909,41.116341,Meydan,,,,,restaurant
+243,21.3236858,42.0597023,Старо Буре,,,,,restaurant
+244,20.6973913,42.244266,Lindi Com,,,,,restaurant
+245,20.6399055,42.3108727,AH Dukagjini,,,,,restaurant
+246,20.711015,40.9012571,Restaurant New Titanic,,,,,restaurant
+247,20.8031982,41.0459402,Dva Bisera,Spécialités_Locales,,,,restaurant
+248,21.626938,41.9612516,Burger King,burger,,,no,fast_food
+249,20.8026136,41.1140172,Фopтунa,regional,Mo-Su 07:00-24:00,Димитар Влахов,outside,restaurant
+250,20.8006878,41.1150114,Irish Pub,,,Македонски Просветители,,pub
+251,21.4366005,42.0000179,Пивница АН,regional,Mo-Sa 09:00-24:00; Su 12:00-24:00,Градиште,separated,restaurant
+252,22.5008568,41.1426925,CLIQUE,,,,,fast_food
+253,22.4529562,40.9466068,Το πέρασμα,,,,,fast_food
+254,22.5729687,40.9945038,Το καραφάκι,,,,,restaurant
+255,22.461848,41.637946,Fast Food Melani,burger,,,,fast_food
+256,22.46164,41.638201,Grill Melani,burger,,22 октомври,,fast_food
+257,22.460188,41.639759,Target,italian,,Ана Поцкова,no,restaurant
+258,22.460412,41.640957,Jocker pizza,italian,,Кеј 8ми Септември,no,restaurant
+259,22.461378,41.640184,Getsbi pizza,italian,,Кеј 8ми Септември,no,restaurant
+260,22.465724,41.634656,Vrteska,barbecue,,Самуилова,no,restaurant
+261,22.464019,41.63414,Gone,barbecue,,,no,restaurant
+262,22.46449,41.633496,Sopka,barbecue,,,no,restaurant
+263,22.462943,41.636566,Karagjoz,barbecue,,,no,restaurant
+264,22.44631,41.629596,Magmar,barbecue,,,no,restaurant
+265,22.461327,41.639065,Beverli hils,barbecue,,,no,restaurant
+266,22.462186,41.639133,Shona,barbecue,,,no,restaurant
+267,22.456789,41.633895,Santa Maria pizza,italian,,,,restaurant
+268,22.463272,41.637611,Makedonsko Sonce,regional,,,no,restaurant
+269,22.462199,41.63925,Lastik,barbecue,,,no,restaurant
+270,22.465528,41.637782,Lipa,barbecue,,,no,restaurant
+271,22.46306,41.638767,Maslac,barbecue,,,no,restaurant
+272,21.4634495,41.9892217,Лесковац,,,Булевар Јане Сандански,isolated,fast_food
+273,21.4297981,41.9925716,Damaskino,,,Македонија,,restaurant
+274,21.4147832,41.9964357,Дринкерс Парадајз,,Mo-Su 00:00-01:00 10:00-24:00,Христо Смирненски,outside,pub
+275,21.4204573,41.9989335,Браво,,,,outside,pub
+276,20.800047,41.11542,Pizzeria Americano,italian,,,outside,restaurant
+277,21.4231542,41.9917018,Dal Fufo - Galija,,,,,restaurant
+278,21.4207515,41.9906511,MFC - Macedonian Fried Chicken,burger,,,,fast_food
+279,21.3912646,42.0048773,Burger King,burger,,Љубљанска,,fast_food
+280,21.4319604,41.9947506,Destan,kebab,08:00-23:00,11 Октомври,separated,restaurant
+281,21.4317257,41.9950911,Ла Тераца,italian,08:00-24:00  Fr-Sa 08:00-01:00,11 Октомври,separated,restaurant
+282,21.3910004,42.0045421,Brooklyn Lounge Bar,italian,08:00-00:00; Fr-Sa 08:00-01:00,,separated,restaurant
+283,21.4099065,41.9953743,Носталгија,,,Митрополит Теодосиј Гологанов,,restaurant
+284,20.5139048,42.28793,Villa Kroni,,,,,restaurant
+285,21.4020366,41.9979148,Кај Маршалот,regional,,Прашка,outside,restaurant
+286,21.4238539,41.9952491,Burger Friends,burger,,Митрополит Теодосиј Гологанов,,fast_food
+287,22.5717058,40.9945854,Τροχός,,,Μεγάλου Αλεξάνδρου,,fast_food
+288,21.733628,42.1208566,Exclusive,,,,,restaurant
+289,21.7448727,42.1214792,Тераца,,,,,restaurant
+290,21.4063144,42.0062651,Барбакан,,08:00-01:00,Булевар 8-ми Септември,,restaurant
+291,20.7507648,42.2086619,Park Cafe,,,,,restaurant
+292,21.4755231,41.9811549,Royal Burger,burger,,Булевар Видое Смилевски Бато,outside,fast_food
+293,22.3171977,41.6245987,Пилав Тепе,,,,,restaurant
+294,20.8820185,42.0113442,Конак,,,,,restaurant
+295,22.775975,41.9670002,Ресторан Либеро,regional,,Н. Ј. Вапцаров,outside,restaurant
+296,22.7727421,41.9665628,Антика,,,,,restaurant
+297,22.7743723,41.9671309,Кај Бубето,,,Н. Ј. Вапцаров,,restaurant
+298,22.7765278,41.9665702,Анкет,sandwich,,бул. Методи Митевски Брицо,,fast_food
+299,22.7771972,41.9664561,Сиан,sandwich,,бул. Македонија,,fast_food
+300,22.7774699,41.9661844,Буцко - Бурекчилница,Burek,,Ленинова,,fast_food
+301,22.7714652,41.9655104,Пицерија Палма,pizza,,Маршал Тито,,restaurant
+302,22.7756155,41.9667157,Панорама,pizza,,Н. Ј. Вапцаров,,restaurant
+303,22.7729809,41.9663111,Пицерија Iceberg,,,,,restaurant
+304,22.7732345,41.9664629,Вигор,,,,,restaurant
+305,22.772658,41.9641901,Ресторан Трла,,,,,restaurant
+306,22.7736839,41.963414,Gostilnica Zvon-Trejd,,,,,restaurant
+307,21.4170693,41.997226,Еснаф кај даре,regional,,,,restaurant
+308,21.4591155,41.9191256,Ресторан Бела,regional,,,,restaurant
+309,22.4784535,41.0790393,Άμπελος,,,,,restaurant
+310,22.6153456,41.5162501,ЈаворШпед,,,,,restaurant
+311,22.2451062,41.6337365,Рибник,,,,,restaurant
+312,21.2166228,41.5068787,Кај Чоме,,,,,restaurant
+313,20.801555,41.1119481,Ривиера,,,,,restaurant
+314,20.7998658,41.1127888,Гиро Летница,,,,,fast_food
+315,20.8039749,41.1104511,Ла Бела,,,,,restaurant
+316,20.8052329,41.109536,Royal View,,,,,restaurant
+317,21.7828824,41.7176771,Ројал,,,,,fast_food
+318,21.4725098,41.9824716,Pizza Amica,,,,,restaurant
+319,21.4427246,41.9922973,Лезет,,,,,restaurant
+320,21.4422139,41.9922032,Кај Злате,,,,,restaurant
+321,21.2494143,41.545315,Меана Дедо Илија,,,,,restaurant
+322,21.2070709,42.3048465,Parku   Kaçanik,,,,,restaurant
+323,21.2945211,42.1552736,Ardi,,,,,restaurant
+324,21.29781,42.1514298,Doner Besimi 92,,,,,fast_food
+325,21.2982016,42.1509339,Furra Edisoni,,,,,fast_food
+326,21.2984886,42.1501564,Oslo,,,Adem Jashari,,restaurant
+327,21.3000961,42.1491782,Shell,,,,,restaurant
+328,21.3023049,42.1455695,Lindi,,,,,restaurant
+329,21.3027217,42.1451824,Bleta,,,,,restaurant
+330,21.2962231,42.1517314,Bas Trade   Qebaptore,,,,,fast_food
+331,21.2957115,42.1499562,te Samia,,,,,restaurant
+332,21.4010837,42.0084895,бед бунар,,,,,restaurant
+333,20.8866832,42.0138371,casa leone,italian,,,,restaurant
+334,22.9751207,41.2960417,Evora,regional,,,,restaurant
+335,20.9750309,42.0077518,Restaurant Sirena,pizza,07:00- 24:00,Маршал Тито,isolated,restaurant
+336,21.4037096,42.0818924,Ribimiluss,pizza,,,,restaurant
+337,21.4093282,41.9748528,бимекс,regional,9:00-24:00,,no,restaurant
+338,21.4301301,41.9957324,Пекинг Гарден,chinese,Mo-Sa 11:00-24:00; Su 12:00-23:00,Максим Горки,,restaurant
+339,21.4667276,41.9856123,Campione lounge Bar,italian,Mo-Su 08:00-01:00,Boulevard Jane Sandanski,,restaurant
+340,21.4661426,41.9859376,DejaVu Lounge,french,Mo-Su 08:00-01:00,Boulevard Jane Sandanski,,restaurant
+341,22.7957274,41.2535134,Ψησταρια,,,,,restaurant
+342,22.7863734,41.2763164,To Patriko,,,,,restaurant
+343,21.4365756,41.9871974,Makedonska sofra,,Mo-Sa 08:00-01:00,Јужен Булевар,,restaurant
+344,21.4448873,42.1382444,Етно кујна Вила Елена,balkan,,,,restaurant
+345,21.4343571,41.9973371,Lounge Bar Divan,pizza,,,separated,pub
+346,21.434577,41.9973163,Sky ресторанот,international,,,,restaurant
+347,22.8398802,41.2618621,H Gonia,pizza,,,,restaurant
+348,22.7607488,41.1780294,Basilis,,,,,restaurant
+349,22.7612154,41.1783337,o Pontos,,,,,restaurant
+350,21.5493109,41.3505012,СиС,,,,,fast_food
+351,21.5493787,41.350337,Сникерс Грижо,,,,,fast_food
+352,21.4300742,41.9933026,Amigos Мексиканска Кантина,mexican,Mo-Th 08:00-24:00  Fr Sa 08:00-01:00  Su 10:00-24:00,Македонија,outside,restaurant
+353,20.9614188,41.9995695,Era,burger;sandwich;breakfast;ice_cream;tea;cake;coffee_shop;pasta;pizza;diner,Mo-Su 09:00-00:00,,,restaurant
+354,20.961125,41.9976539,Restaurant Boss,burger;sandwich;ice_cream;grill;cake;coffee_shop;pasta;greek;balkan;pancake;pizza;fish_and_chips;diner;italian_pizza;fish;hot_dog;breakfast;tea;italian,24-Jul,,,restaurant
+355,20.6309157,42.3168879,Le Nar 2 pizzeria,,,,,restaurant
+356,21.4941048,41.9977923,Томи,,,,,fast_food
+357,20.9734955,41.8453568,Restaurant Oaza,,,,,restaurant
+358,21.4237032,42.0000584,Пемпеле,,,,,fast_food
+359,21.4338587,41.9955972,Соул кичен,international,,Кеј 13 Ноември,outside,restaurant
+360,22.6914572,42.2735871,Чешмето,,,,,restaurant
+361,22.8533205,42.2567766,"Механа ""Невестино""",,,,,restaurant
+362,22.7040021,42.2789642,Хиената,diner,24-Jul,Стара планина,,restaurant
+363,21.2399553,42.2384167,Trofta,,,,,restaurant
+364,21.4307185,42.0229923,Beta,,,,,restaurant
+365,22.1969715,41.7386184,Зимбако,burger;regional;sandwich;kebab,,,,fast_food
+366,22.1911884,41.7375454,Classic Restaurant,sandwich;balkan;breakfast;pizza;kebab;local;pasta;coffee_shop;ice_cream,Mo-Su 07:00-00:00,,,restaurant
+367,22.1940792,41.7384717,Хамби,,,,,fast_food
+368,22.1933812,41.7371183,JA-JA,,,,,fast_food
+369,20.5959852,41.2357204,Via Ignatia,,,,,restaurant
+370,20.8011081,41.1166205,Dr. Falafel,,Mo-Sa 09:30-22:30  Su 16:00-23:00,7 Ноември,,restaurant
+371,21.4212497,41.9495659,Мулино Гарден,,,,,restaurant
+372,20.7324821,42.2201962,Eja,,,,,restaurant
+373,20.9894268,42.0041795,Restaurant Emporium,,Mo-Th 08:00-24:00  Fr-Sa 08:00-01:00  Su 08:00-24:00,,,restaurant
+374,20.9896305,42.0042064,Chitir Chicken,chicken,Mo-Su 09:00-23:00,,,fast_food
+375,20.9895845,42.0041365,Doner Kebab,kebab,,,,fast_food
+376,20.9893133,42.0042922,Шатци,,,,,fast_food
+377,20.989468,42.0042478,Fontana Grill,steak_house,Mo-Su 08:00-24:00,,,restaurant
+378,21.7206493,42.1320465,Restoran Prado,burger;sandwich;regional;international;grill;coffee_shop;pasta;balkan;pancake;pizza;fish_and_chips;diner;chicken;italian_pizza;fish;seafood;mediterranean;italian;fine_dining,Mo-Th 08:00-24:00; Fr-Sa 08:00-01:00; Su 10:00-24:00,Св. Кирил и Методиј,,restaurant
+379,20.9632934,42.1721586,Kulla e Jetimit,,,,,restaurant
+380,21.4160063,41.9969599,Лавче,,,,,restaurant
+381,20.7972577,41.1124024,Ресторан Антико,,,,,restaurant
+382,21.6186125,41.9371686,Kaj Dzek,chicken;kebab;grill;local;balkan,,,,restaurant
+383,20.7335006,42.216132,Aurora,balkan,,Jusuf Gervalla,,restaurant
+384,21.4002154,42.0030463,Бабе,fish,,,,restaurant
+385,21.34668,41.0130595,Vavilon,,,,,restaurant
+386,22.6366903,41.231591,Elita,fish,,,,restaurant
+387,21.4655483,41.9915744,Златна вилушка,,,Булевар АСНОМ,,restaurant
+388,20.730769,42.2206747,Pizzeria Enigma,,,,,restaurant
+389,21.3986642,42.0034137,Thong Thai,thai,Sa-Su 10:00-01:00,,outside,restaurant
+390,21.4301208,41.9927317,"Lounge Bar & Restaurant ""Square 21""",,,,,restaurant
+391,22.8581787,41.7058839,Чардак,balkan,,Страшо Пинџур,,restaurant
+392,21.4531813,41.9877171,Лесковачка Вили,,,,,fast_food
+393,21.4826074,41.9788465,Ресторан Златник,,,,,restaurant
+394,22.1966748,41.7388546,Кебапчилница Тасе,,,,,restaurant
+395,22.1922397,41.7382087,Рома,,,,,restaurant
+396,21.2016913,42.1951997,Sharri,,,,,restaurant
+397,20.9746292,42.0073877,11,,,,,restaurant
+398,20.804929,41.0035617,Бане 2,,,,,restaurant
+399,21.552257,41.3431784,Стојче-Метропол,,,,,restaurant
+400,20.656177,40.9006516,Benvenuto,pizza,,,,restaurant
+401,20.6566095,40.9024427,Dante,pizza,,,,restaurant
+402,20.6595284,40.9017073,Endri,,,,,restaurant
+403,20.6579037,40.9014803,Oaz,pizza,,,,restaurant
+404,20.6579567,40.9012258,Rusi Grill,pizza,,,,restaurant
+405,20.6597806,40.9022577,Te Roni,,,,,restaurant
+406,21.4005479,42.0031488,7,,,,,fast_food
+407,20.7573957,41.7018616,Ресторан Мал Одмор,,,,,restaurant
+408,21.3679919,41.9953546,Вила Веранда,local,,,outside,restaurant
+409,21.4520843,41.9883207,еквестријан,,,,,restaurant
+410,20.756666,41.7014251,Кај Тетка Вики,,,,,restaurant
+411,21.3354104,41.0300902,Мики Бургер,,,,,fast_food
+412,20.7305677,42.2100755,Esler Qebaptore,,,William Walker,,restaurant
+413,21.0215292,42.2412553,Restaurant & Motel Karpa,,,,,restaurant
+414,21.0067043,41.1085785,Етно Куќа,,,,,restaurant
+415,20.7986796,41.1168867,Brioni 2008,,,,,restaurant
+416,20.7985841,41.1169309,Exclusive Art Cuisine,,,,,restaurant
+417,20.971466,42.008963,КУБИКС - Студио за Анимација,,24-Jul,Ilindenska,,restaurant
+418,21.4362461,41.9996618,Kaj Serdarot,,,,,restaurant
+419,21.436081,41.9996701,Destan,,,,,restaurant
+420,21.4355402,41.9994953,Австриска палта,,,,,restaurant
+421,22.6433683,41.4433529,Чамовски,,,,,restaurant
+422,20.6943305,42.0544368,Kitka,,,,,restaurant
+423,21.5737139,41.9973758,Gyroland,,,,,fast_food
+424,21.5888229,41.9864102,Royal Food Zlate,,,,,restaurant
+425,21.4355402,41.9949989,Амика,international,,Кеј 13 Ноември,,restaurant
+426,20.9135714,41.798662,Happy M grill,,Mo-Su 09:00-02:00,,,fast_food
+427,21.427293,42.0059792,Four,international;italian;fish,,,outside,restaurant
+428,21.4335119,41.995703,Дион,italian,,,,restaurant
+429,20.607177,41.6226607,House of Miyaks Ethno Restaurant,regional;coffee_shop;sandwich;ice_cream;international;turkish;steak_house,Mo-Su 09:00-21:00,,isolated,restaurant
+430,21.3936186,42.0045887,Ресторан Буре Срна,regional;international;barbecue,Mo-Su 08:00-00:00,Никола Русински,outside,restaurant
+431,20.9270945,41.940898,Max Doner,kebab,,101,,fast_food
+432,20.9272881,41.9444009,Restoran Elita,,,101,,restaurant
+433,20.9398801,41.976507,Nes Komerc,,,,,restaurant
+434,20.9262185,41.9420491,Rinia 97,,,,,fast_food
+435,20.929929,41.9485098,Niki,,,,,restaurant
+436,20.7433474,42.2171521,Bahtijar Plus,,,,,restaurant
+437,22.90042,41.3709709,Ресторан АтлантиС Смоларски Водопат,fish;barbecue;local;grill,Mo-Su 10:00-22:00,Smolare,,restaurant
+438,21.4021635,41.9959806,Македонска куќа,burger;regional;ice_cream;grill;crepe;coffee_shop;balkan;pancake;chicken;diner;fish;breakfast;tea;sausage;local;fine_dining;kebab;barbecue,Mo-Su 08:00-00:00,Митрополит Теодосиј Гологанов,,restaurant
+439,20.5226109,41.5101027,Drilon,,24-Jul,rruga Liqenit,,restaurant
+440,21.4648097,42.0030521,Кај Тоше на Ќоше,regional,,,,restaurant
+441,21.2166302,41.5121022,Млецен Ресторан Симед,,,,,fast_food
+442,21.3979429,42.0034744,Tripod King,asian,,,,fast_food
+443,21.3963477,42.0026669,Вегера,regional,Mo-Sa 06:00-24:00  Su 08:00-24:00,,outside,fast_food
+444,22.0622886,40.9749942,Διαχρονικόν,,,,,restaurant
+445,21.9268259,40.951617,Διόνυσος,,,,,restaurant
+446,21.0514706,42.0755301,Ресторан Цуцла,,,,,restaurant
+447,20.5602269,41.071311,Bar Restaurant Istanbul,,,,,restaurant
+448,21.0512358,42.072656,Ресторан Трио,,,,,restaurant
+449,21.4341686,41.9955027,Ало ало,,,Кеј 13 Ноември,no,pub
+450,21.4348936,41.9952816,Ла Пуерта,mexican,,,,fast_food
+451,21.4342829,41.9954679,Даблинер,,,Кеј 13 Ноември,no,pub
+452,22.3355793,42.2027771,Restaurant Osogovec,regional,,Marshal Tito,isolated,restaurant
+453,20.6726264,42.198998,"Qebaptore & Pizzeria ""Te Bisa""",,,,,fast_food
+454,20.8375411,41.765046,Бурими Тре,,,,,restaurant
+455,20.8363637,41.7653321,Панорама,,,,,restaurant
+456,20.7355974,42.2157289,Pizza Malsia,,Mo-Su 07:00-07:00  24:00-00:00,Xheme Gostivari,,fast_food
+457,20.9144193,40.9390733,Beach Bar Mystic,,,,,restaurant
+458,21.5093746,41.9956244,Ketering Vkusno,,,Париска Комуна,,fast_food
+459,21.5078989,41.9932328,Гостилница Софра,,,Париска Комуна,,restaurant
+460,21.5099084,41.9951884,Пицерија Кремисимо,,,,,restaurant
+461,20.6298755,42.3175203,Restaurant Le-Nar,,,,,restaurant
+462,22.8186239,41.9752689,Рибник Воденица,seafood,08:00 - 00:00,Road Route A3,outside,restaurant
+463,22.572699,40.9938321,Βαγγελακης,,,,,fast_food
+464,21.082072,42.2587718,Restorant Trofta,,,,,restaurant
+465,20.6509902,42.0615254,Shpella,,,,,restaurant
+466,21.0323315,42.1814764,Pizzeria Tina,,,,,restaurant
+467,21.0398878,42.0597188,Контраст,,,,,fast_food
+468,21.3352456,41.0275558,Бурбон Стрит,pizza;regional,Su-Th 08:30-00:00; Fr-Sa 08:30-01:00,Ленинова,,pub
+469,22.4988477,41.1373679,Restoran Sarisa,regional,,Маршал Тито,,restaurant
+470,21.4600445,41.9978436,Dojrana Skopje,,,,,restaurant
+471,20.7311636,42.2121799,Rita Ora (ex Vildani),pizza,07:00-21:00,,,fast_food
+472,21.4474069,42.018055,Burek,regional,,Булевар Христијан Тодоровски Карпош,,fast_food
+473,21.6126147,41.9953625,Конак Јазбиње,,,,,restaurant
+474,22.3598489,42.19038,Vodenicata 3,,,,,restaurant
+475,20.5266276,41.5215391,Ресторан Грамоз,fish;burger;sandwich;breakfast;ice_cream;grill;cake;steak_house;pasta;balkan;diner;barbecue,Mo-Su 08:00-11:00,Velko Vlahoviq bb Debar,,restaurant
+476,20.7408111,42.2091011,Centimetri,,,,,restaurant
+477,20.7433168,42.2168522,Batjari,burger,,,,fast_food
+478,20.9602367,41.9912803,Ultra,,,,,restaurant
+479,20.7408182,42.2090721,Piceria Centimetri,,Mo-Su 09:00-00:00,Sheshi Shadervanit,,restaurant
+480,20.8459093,41.7704206,Riben Restoran Bigor,,,,,restaurant
+481,21.1624357,40.9075981,Vila Raskrsnica,local,,,,restaurant
+482,21.4069546,42.0060914,Bonimi,regional,Mo-Su 20:00-24:00,Булевар 8-ми Септември,,restaurant
+483,21.4320378,41.9957057,Колектив,,,,outside,pub
+484,22.336137,42.205828,Royal Lounge Bar,,,,,restaurant
+485,20.6402193,41.0663504,Restorant Rema,,,,,restaurant
+486,20.7141154,40.899249,Mjelma,,,,,restaurant
+487,20.7934666,41.1148473,Гладиатор,,,,,restaurant
+488,20.7198991,40.9009646,Lokali,regional,,,,restaurant
+489,20.790543,41.1109837,Кај Каневче,,,,,restaurant
+490,20.7410279,40.9141308,Свети Наум,,,,,restaurant
+491,20.7542113,42.207118,Restaurant Natyra,,,,,restaurant
+492,21.3567574,42.3183714,Döner Buki,,,,,fast_food
+493,21.3575186,42.3173533,Besi,burger,,,outside,fast_food
+494,20.9756816,42.009057,Ресторан Еснав,,,,,restaurant
+495,20.9758291,42.0089945,Ресторан Тетовска Куќа,,,,,restaurant
+496,20.9758432,42.0095705,Пица-Ресторан Пунто Верде,,,,,restaurant
+497,20.9805382,42.0069026,Гарден Ресторант,,,,,restaurant
+498,21.3878449,42.0038168,Domino's,pizza,,,,fast_food
+499,20.8102534,42.1769455,Fuad AS,,,,,restaurant
+500,21.0571809,40.9721129,Proper,,,,,restaurant
+501,21.357383,42.3182127,Lindi,,,,,restaurant
+502,21.3572356,42.3190483,Jeta,regional;burger,Mo-Su 08:00-20:00,Adem Jashari,outside,fast_food
+503,20.8014536,42.2942705,Electroni,,,,,restaurant
+504,20.8508317,42.3193347,Flamingo,,,,,fast_food
+505,21.4640869,41.9913259,Т'га за југ,,,,,restaurant
+506,20.7324843,42.2177864,Restauranti Otro,,,,,restaurant
+507,20.7982792,41.112178,Порта,,,,,restaurant
+508,21.4412533,42.0195979,Бизнис,,,Ресенска,,restaurant
+509,20.7212838,40.9031754,Sirena,,,,,restaurant
+510,20.7208149,40.9032596,Dallga,,,,,restaurant
+511,20.7206843,40.9029678,Kashta,,,,,restaurant
+512,20.7179182,40.9020794,Miresevini,,,,,restaurant
+513,20.7141398,40.9016249,Dante,,,,,restaurant
+514,20.7137963,40.9015746,Xhili,,,,,restaurant
+515,20.7128014,40.9018022,Kristal,,,,,restaurant
+516,20.6185657,42.1638117,Qebaptore Amiri,,Mo-Su 08:00-21:00,zhur prizren,,fast_food
+517,20.7969483,41.1118507,Далга,,,,,restaurant
+518,20.8253404,42.1721676,Restaurant Marlboro,,,,,restaurant
+519,21.4280925,42.0039853,Парк,,,,,restaurant
+520,20.9215793,40.8831747,Restaurant Vasili,,,,,restaurant
+521,20.8500571,42.170771,Finlandia,,,,,restaurant
+522,21.4191901,42.0005946,Кантина,burger;coffee_shop;sandwich;ice_cream,Monday- Satudray 09:00-24:00,Радњанска,outside,restaurant
+523,21.3909815,42.0049046,Chicken House,,,,,fast_food
+524,21.404415,42.0353232,Аликас,,,Ul Качанички пат,,restaurant
+525,21.4633394,41.9914306,Пицерија Фамилија,,,,,restaurant
+526,21.316191,41.9908973,Er & Bi,,,,,restaurant
+527,20.799108,41.0902867,БИЧ ЕНД ЛОУНЏ ЏОВАНИ,,Mo-Sa 08:00-01:00; Su 09:00-00:00,Naum Ohridski,,restaurant
+528,22.6388602,41.4409617,Salomon fud,,,,,restaurant
+529,21.426176,41.9955629,Piazza Liberta,,,,,pub
+530,20.7936666,42.1634127,"Etno Selo ""JASIKA""",,,,,restaurant
+531,20.7596239,42.1654469,Restaurant Bjeshka,,,,,restaurant
+532,21.5712443,41.9150979,Грин Вилиџ,,Mo-Su 11:00-23:00,,,restaurant
+533,21.425567,41.9955107,Domino's Pizza,pizza,Mo-Su 10:00-24:00,Димитрие Чуповски,,fast_food
+534,21.4276093,41.9948293,7 Скара Ресторан,grill,Mo-Th 08:00-24:00; Sa 08:00-01:00,Даме Груев,,restaurant
+535,21.9621699,40.8770075,ΚΑΦΕ ΟΥΖΕΡΙ Ο ΠΛΑΤΑΝΟΣ,greek,24-Jul,Πρός Κερασέες,,fast_food
+536,21.4492023,41.9899769,Мезе Бар,,Fr-Su 08:00-01:00; Su 08:00-17:00; Mo-Th 08:00-00:00,Булевар Кузман Јосифовски Питу,,restaurant
+537,20.7275718,42.2170602,StarBurger,,,Wesly Clark,,fast_food
+538,20.7276189,42.2170833,StarBurger,,,Wesly Clark,,fast_food
+539,20.7284486,42.1189112,Dilli,,Mo-Su 08:00-22:00,,,restaurant
+540,21.3678533,42.0084679,Ubac,,,Булевар Ѓорче Петров,,restaurant
+541,21.4170443,42.003398,Royal Burger,,,,,fast_food
+542,20.8070617,42.1337952,Caffe Nedo,,24-Jul,Dom,,restaurant
+543,21.4223088,41.9916485,Gostilnica Gurman,,Mo-Su 07:00-22:00,,,restaurant
+544,21.4193986,41.9868025,Баба Цана,macedonian,,,,restaurant
+545,20.7170577,42.2080273,Burger King,burger,,Mehmet Pashe Deralla,,fast_food
+546,21.4239699,41.9981195,Паб Порта,,Mo-Th 09:00-00:00  Fr-Sa 09:00-01:00,Булевар Партизански Одреди,isolated,pub
+547,21.3931934,42.0044372,Pizza Jakomo,pizza,,Никола Русински,,restaurant
+548,21.3813769,42.0057641,Pub,,,,,pub
+549,21.4279999,41.9915759,Burger King,burger,,,,fast_food
+550,21.4276864,41.9913338,Star Ocean,,,,,restaurant
+551,21.4149006,42.0005187,Fitness house,,,,,restaurant
+552,21.424583,41.9965778,American best burger,,,,,fast_food
+553,21.4000902,42.0029952,Foodio,,,,,fast_food
+554,22.7742657,41.9654757,Две Липи,,,бул. Методи Митевски Брицо,,restaurant
+555,21.4020786,42.0065896,Etna,,,,,fast_food
+556,21.400699,42.0028979,Жужу Бургер,,,,,fast_food
+557,20.7331886,42.2200978,Restaurant “Arta”,,,Faik Konica,,restaurant
+558,22.3309502,42.2075328,Стар Лисец,,,Македонска,,restaurant
+559,22.335623,42.2026632,Аквариум,,24-Jul,Свети Јоаким Осоговски,,restaurant
+560,21.0093573,42.1996914,Qafa Resort,,,,,restaurant
+561,21.0102523,42.1996332,Pine,,,,,restaurant
+562,20.726218,42.2118995,KFC Kosovo (Drive Thru Prizren),chicken,,,,fast_food
+563,22.8020173,41.1651455,Σουλτούρας,Ψησταριά,,,,restaurant
+564,20.6685148,40.9010896,Pica te Babo,,,,,restaurant
+565,20.6668236,40.9013293,Pica Me Gusta,pizza,,,,fast_food
+566,21.4012616,42.0032708,Magic,,,,,fast_food
+567,21.3412151,41.0236829,Скандал,,,Партизанска,,restaurant
+568,20.7981623,41.1122361,Пица Александриа,italian_pizza,Su-Th 09:00-00:00; Fr-Sa 09:00-01:00,Цар Самоил,,restaurant
+569,21.4808444,41.9837709,Segreto Plus,,,,,restaurant
+570,20.6843029,40.9005105,ermano 2016,,,,,restaurant
+571,20.745869,42.2119612,Marashi,,,,,restaurant
+572,22.2011852,41.7471233,Кафе Канал 77,,,,,restaurant
+573,21.4366123,41.9995926,кај сердарот,local;barbecue,,,,restaurant
+574,21.4349757,41.9974686,Lounge Bar Divan,pizza,,,separated,pub
+575,21.4565032,41.9729164,Тарапана,,,,,restaurant
+576,21.4205747,42.0013292,Дебар Маало,chicken;diner;beef_bowl;american;ice_cream;local;tea;pizza;burger;cake;pasta;french;italian_pizza;seafood;crepe;pancake;sandwich;coffee_shop;balkan;mediterranean;croatian;fish;kebab;breakfast;grill,Su-Th 08:00-00:30; Fr-Sa 08:00-01:00,Живко Чинго,,restaurant
+577,21.2407616,42.1920945,peshku,,,,,restaurant
+578,20.6968958,40.8680255,Joni,,,,,restaurant
+579,20.7109487,40.9003634,Bar Restorant Lezha,,,,,restaurant
+580,20.7187671,40.9028369,Sunset,,,,,restaurant
+581,20.7824024,40.9617356,Mermaid Terrace,,,,,restaurant
+582,20.7990387,41.1180922,City Chicken,,,,,fast_food
+583,20.7980562,41.1121475,Pizza Aleksandrija,,,,,restaurant
+584,21.1878054,42.2182652,Bulica Restaurant & Caffe Bar,,,,,restaurant
+585,22.3572149,41.9945499,Осоговска Куќа,,,,,restaurant
+586,21.4235595,42.0023813,МЦМ Мезе Бар,balkan,24-Jul,Булевар Илинден,,restaurant
+587,21.4239655,42.0028235,Костарика,,,,,restaurant
+588,21.4242333,42.003366,Калабалак,,,,,restaurant
+589,21.4240111,42.0028813,Старо Скупи,,,,,restaurant
+590,21.4240218,42.0030128,Занзибар,pizza,,,,restaurant
+591,21.4210921,42.0013712,Идадија,,,,,restaurant
+592,21.4214837,42.001453,Наџак,,,,,restaurant
+593,21.4206632,42.0010941,Zing,,,,,restaurant
+594,21.420049,42.0007591,Дебар Маало,,,,,restaurant
+595,21.4208615,42.0014888,Кај Перо,,,,,restaurant
+596,20.9629592,42.173767,Te Syla,,,,,restaurant
+597,20.7408392,42.20892,EGO,,,,,restaurant
+598,21.4231465,41.9999867,Dogs bar,,,,,fast_food
+599,21.649803,42.3093835,Te Bunari,,Mo-Su 06:00-23:00,Саве Ковачевића,,restaurant
+600,21.6528619,42.3080263,Eleganca,,Mo-Su 07:00-23:00,Selami Halaci,,restaurant
+601,21.7282115,42.1333614,Помодоро,,,,,restaurant
+602,21.4318165,41.9944177,BubbleWaffle's,waffle,10:00-21:00,Димитрие Чуповски,,fast_food
+603,21.4236496,41.9990664,Gostilnica Estel,kebab,,,,restaurant
+604,20.7393139,42.2094193,Tomos,,,,,restaurant
+605,20.6955868,42.2012797,restaurant durimi,,24-Jul,Tahir Sinani,,restaurant
+606,22.8869357,41.7619502,Хотел Гогов,,,,,restaurant
+607,21.0130069,41.0913864,Стар сокак,,,,,restaurant
+608,21.0137006,41.0891028,Сендвичара Преспа Мефо,,,,,fast_food
+609,21.3740403,42.0063483,Aleksandrija,,,,,restaurant
+610,21.7131719,42.1333475,Ambrella,,,,,restaurant
+611,20.9660018,42.0133094,БЕЛАМИА,fish;regional;international;ice_cream;crepe;seafood;coffee_shop;steak_house;balkan;pancake;pizza;diner;chicken,Mo-Su 09:00-23:00,Гоце Делчев,,restaurant
+612,21.4457433,41.9878133,Пицерија Џокер,sandwich;italian_pizza,Mo-Fr 09:00-23:00; Sa 11:00-11:00; Su 12:00-20:00,,,fast_food
+613,21.4361151,41.9995917,СНОШТИ МИНАВ,local,,,,restaurant
+614,21.4237345,41.7918174,Планинарски дом Караџица,,,,,restaurant
+615,20.9082428,41.7922445,Ресторант Вита Аби,,,,,restaurant
+616,20.7833664,40.9621226,Сен Тропе,,,,,restaurant
+617,21.2185145,41.5075708,Бурек,,,,,fast_food
+618,21.4200655,42.0009079,"Кафана ""Дебар Маало""",savory_pancakes;german;chicken;diner;american;local;barbecue;tea;fine_dining;cake;pasta;international;french;greek;seafood;fish_and_chips;pancake;sandwich;coffee_shop;balkan;mediterranean;croatian;ramen;turkish;fish;kebab;grill,Mo-Th 08:00-00:00; Fr-Su 08:00-01:00,Живко Чинго,,restaurant
+619,21.0315447,42.1819125,Restaurant David's,,,,,restaurant
+620,22.5428579,40.9870412,Το Κουτούκι,,,,,restaurant
+621,21.2952137,41.96002,Fish Grill (Macedonian Cave Restaurant),,Mo-Su 09:00-21:00,,,restaurant
+622,20.7362858,41.6510336,Glamour,,,,,restaurant
+623,20.6516188,41.2239348,Grand restaurant,,,,,restaurant
+624,21.4001853,42.0031615,Буре,macedonian,,,,restaurant
+625,21.5554324,41.3459748,Magic Food,,,,,restaurant
+626,20.8125826,41.0544299,Terasa Utarna,,,,,restaurant
+627,20.7247455,42.2226128,Halimi,,,,,restaurant
+628,21.4605034,42.0026892,Млечен ресторант АНЕ,regional;sandwich,,,,fast_food
+629,20.807528,41.1069789,Ristorante Stazione,italian,,,,restaurant
+630,20.8056768,41.1090118,Irish Pub Dublin,,,,,pub
+631,20.6682228,40.9011103,The Change,regional,,,,restaurant
+632,20.8894257,41.2434073,Dedo Dimo,balkan,Mo-Su 12:00-00:00,Kuratica,,restaurant
+633,20.8157042,41.1259308,Ресторан Панорама,,Mo-Su 07:00-23:55,,,restaurant
+634,22.687176,42.2826546,Dream's house,,,,,restaurant
+635,20.6410085,40.9327465,Restaurant Hotel Victoria,,,,,restaurant
+636,20.6379504,40.9342503,Goni Korca,,,,,restaurant
+637,20.6439111,41.0505076,Korca,,,,,restaurant
+638,20.6395201,41.0666472,Leza,regional,,,,restaurant
+639,20.6683585,40.9010985,Vadeha,,,,,restaurant
+640,20.6365771,40.9984482,Rei,regional,,,,restaurant
+641,20.8839683,41.5106535,Рибен Ресторан Добреноец,fish,,,,restaurant
+642,20.8928941,41.5034917,Фурна,,,,,restaurant
+643,20.6623796,40.9017554,Smoked Duck,regional  italian,,Dëshmorët e Pojskës,,restaurant
+644,21.6320595,41.5475438,Рибник Ресторан Оморани,fish,,,,restaurant
+645,20.798032,41.1124235,Kaj Ksantani Restaurant,,,,,restaurant
+646,20.8740318,42.1732642,Restaurant Bujtina Freskia,regional;pizza;burger,24-Jul,Novi Pazar,,restaurant
+647,20.6639081,40.9016804,Pizeri Kupa,,,,,restaurant
+648,20.664246,40.9016459,Zgara Pogradecare,,,,,fast_food
+649,20.664289,40.9016419,Fast Food Shkodra,,,,,fast_food
+650,20.6644015,40.9016318,Prodhime Zgare,,,,,restaurant
+651,20.6645706,40.9015648,Cavos Bar Restaurant,pizza,,,,restaurant
+652,20.6627703,40.9018242,Fresh Grill Restaurant,,,Dëshmorët e Pojskës,,restaurant
+653,20.6656126,40.9014715,Restorant Konaku,,,,,restaurant
+654,20.6599533,40.9021647,Taverna Ladi,,,Dëshmorët e Pojskës,,restaurant
+655,20.6675063,40.9012039,Zgara Te Glenti,,,,,restaurant
+656,20.6575685,40.9006785,Rinia,pizza,,Rruga Rinia,,restaurant
+657,20.5887025,41.2397324,Pectopahot,regional;kebab;balkan,,,,restaurant
+658,20.5881905,41.2401095,Kutmičevica,regional;local;balkan,,,,restaurant
+659,20.7391212,42.2079038,Cigköfte Evi,,,,,restaurant
+660,21.6985476,42.1288686,Restaurant Arcus,,,,,restaurant
+661,20.9622925,42.1748096,Motel & Restaurant Prevalla,,,,,restaurant
+662,21.4371953,42.0002786,Pçela,barbecue;local,,,,restaurant
+663,20.7417541,42.2149048,Saç Burek,Burek;flija;Mantija;krlan;Tradicionalfood,,,no,restaurant
+664,21.4184238,41.9993211,Cafe Pauza,,,,,fast_food
+665,21.4135121,41.9947932,Воденица,,,,,restaurant
+666,22.5890919,42.0225504,Bumbarche,,,,,fast_food
+667,22.590261,42.0228743,Jafer,,,,,fast_food
+668,22.5877841,42.0248909,Elita,regional,,,,restaurant
+669,22.5925757,42.0178073,Zlatina,fish;regional,,,,restaurant
+670,21.4199442,41.9959518,Restoran Frosina,local,,,,restaurant
+671,22.389952,42.2246851,Дервен,,,,,fast_food
+672,21.410023,42.0053622,Spizzicotto,pizza,Mo-Fr 07:00-16:00; Sa 08:00-14:00,,,fast_food
+673,21.4101783,42.0053452,Bon Appetit,sandwich,,,,fast_food
+674,22.6899779,42.2792609,Майорска къща,,,,,restaurant
+675,21.4520444,41.9826324,Gala Kujna,,,,,restaurant
+676,21.4462164,42.0365961,EZO,,,,,restaurant
+677,21.4100468,42.0127048,Меана Б Јавор Мрзенци,,,,,restaurant
+678,20.7533835,42.2266632,PONTE COFFEE AND MORE -  DARDANIA,regional;pizza;coffee_shop;sandwich;international,Mo-Su 09:00-02:00,Ukë Bytyqi,,restaurant
+679,21.0330103,42.1817899,Munika,,,,,restaurant
+680,22.5751314,40.9918239,Σπιτικό,greek,,,,restaurant
+681,22.3580161,42.2228585,Pashina vodenica,,,,,restaurant
+682,22.5034378,41.1414088,Идила,,,,,restaurant
+683,22.1963608,41.7386743,Стојанче Кубаската,kebab;sandwich,,,,fast_food
+684,22.1907365,41.7368287,Ресторан Сан-Ремо,,,,,restaurant
+685,22.1921774,41.7383603,У Сокако,,,,,restaurant
+686,22.1928555,41.7390109,Верона,,,,,restaurant
+687,22.1901494,41.7371339,Универзитетски Ресторант,pizza;regional;burger;coffee_shop;sandwich;kebab;chicken;ice_cream,,,,restaurant
+688,20.9351278,42.0189508,Driada,,,,,restaurant
+689,21.7788314,41.7177173,Гостилница Сокаче,,Mo-Su 08:00-00:00,Благој Ѓорев,,restaurant
+690,21.331219,41.0309947,Гарден Имиџ,,,,,restaurant
+691,21.4362086,41.9996644,Kaj Гоце,,,,,restaurant
+692,20.9090036,41.7928399,Familijar Restaurant,,,,,restaurant
+693,20.7997775,41.1137008,Burger Station,,,,,fast_food
+694,20.8012066,41.1156043,Macedonska Sofra,regional,,,,restaurant
+695,20.799568,41.1133047,Letnica Kitchen & Bar,,,,,restaurant
+696,21.4670662,41.9856161,"Пицерија ""Дени""",pizza,,,,restaurant
+697,20.7395294,42.2079797,Tiffany national restaurant,,,,,restaurant
+698,20.7406899,42.2092878,Hyska Grill house,,,,,restaurant
+699,20.7423462,42.2188893,Erxhani,kebab,,,,fast_food
+700,20.7424273,42.2161122,Halimi,,,,,restaurant
+701,22.8968221,41.3881711,Лебедово езеро,,,,,restaurant
+702,21.2531359,42.2284088,Kuzhina Ardi,,Mo-Su 08:00-20:00,Vëllezërit Çaka,,restaurant
+703,20.6414849,41.0513406,Erlin,,,,,restaurant
+704,21.0712879,40.9538093,Coca Beach Bar,,,,,restaurant
+705,21.5699754,42.1683969,Панорама,,,,,restaurant
+706,20.800019,41.0911484,Divono,regional,,,,restaurant
+707,22.243567,41.4089518,4 Nova,regional,,,,restaurant
+708,22.2441611,41.409673,Svezda,fast_food,,,,fast_food
+709,22.2287354,41.415802,Moderna,regional;pizza;italian,,,,restaurant
+710,20.8098566,41.1066934,Ресторан Орфеј,barbecue;mediterranean,Mo-Su 08:00-23:00,Партизанска,,restaurant
+711,21.4681708,41.9819646,La Pizza,,,,,restaurant
+712,22.1808429,42.0766945,Гостилница Кај Спиро,regional;local;balkan,,,,restaurant
+713,21.4682623,41.9819621,Ла пица,,Mo-Su 09:00-23:00,,,fast_food
+714,20.6566212,40.8997053,Bar Restorant Ylberi,coffee_shop,,,,restaurant
+715,21.434863,41.995366,La Puerta,mexican,Mo-Su 08:00-00:00,Кеј 13 Ноември,,fast_food
+716,20.5880181,41.0723665,Restaurant ODA,,,,,restaurant
+717,22.5072573,41.8845742,Rusticana,,,,,restaurant
+718,21.3085166,42.320594,Restaurant DAJTI 1 Germove,,,,,restaurant
+719,22.5078812,41.8852945,Roma pizza,,,,,restaurant
+720,20.7164416,42.2485526,Nafron,,,,,restaurant
+721,20.778455,42.2612128,restaurant Albes Complex,,,,,restaurant
+722,21.7180518,42.1344812,Bash Pelivan,,,,,restaurant
+723,21.9710192,41.3956964,Restaurant,,,,,restaurant
+724,21.3357094,41.0289785,Center Lounge & Fresh Bar,,,Shirok Sokak,,restaurant
+725,20.7771109,42.259328,Blerta,,,,,restaurant
+726,20.6511881,42.1053447,La Ruota,,Mo-Su 08:00-22:00,,,restaurant
+727,22.8543352,41.2685461,Το Στεκι,,,,,restaurant
+728,20.6626416,42.1089874,Dasma,,,,,restaurant
+729,20.7283277,42.233382,ProperPizza,pizza,,Enver Hadri,,restaurant
+730,21.3362463,41.0279297,Корнер,burger;kebab,,,,fast_food
+731,21.4360459,41.999319,Kebapčilinica Rio,,,,,restaurant
+732,21.4131738,41.9995518,Vega,,,,,restaurant
+733,21.4381319,42.0015097,Сараево,,Mo-Su 07:30-19:00,,,restaurant
+734,21.7114045,42.1369953,City Chicken,,,,,fast_food
+735,20.7234732,42.2166479,Te Halimi,,,,,restaurant
+736,20.7246521,42.2158921,Fish House,fish,,,,restaurant
+737,21.4358076,41.9997339,Engin Cigköfte (vegetarian),sandwich;turkish,,,,fast_food
+738,21.7007524,42.1328848,Milano,,,,,restaurant
+739,21.4364213,42.0006226,Tako mako,,,,,restaurant
+740,21.4373728,42.0000697,Proper pizza,,,,,fast_food
+741,21.4372514,42.0003594,Ohrid,,,,,restaurant
+742,21.4285563,41.9969456,Markt kitchen,,,,,restaurant
+743,21.4374652,42.0002543,Sac,,,,,restaurant
+744,21.4224937,42.0019483,Skopsko,,,,,restaurant
+745,21.4381868,42.0025858,Cardak,,,,,fast_food
+746,21.4387207,42.0029094,Tetekis,,,,,fast_food
+747,21.4385882,42.002112,Palas,,,,,restaurant
+748,21.4219242,42.0017089,Schpajs,,,,,restaurant
+749,21.436443,42.0005272,Don Giovanni,,,,,restaurant
+750,21.4389514,42.0023225,Doner,,,,,fast_food
+751,21.4398152,42.0004802,Turkish Doner,,,,,fast_food
+752,21.4373399,41.9999786,Concept,,,,,restaurant
+753,21.4384421,42.0021842,Hamza Doner,,,,,fast_food
+754,21.4382061,42.0016292,Plaset,,Mo-Su 07:00-02:00,,,restaurant
+755,21.4176339,42.00005,Петле,,,,,fast_food
+756,21.4086507,41.9971719,Млечен Бар,,,,,restaurant
+757,21.4244578,41.9945241,Букет,,,,,restaurant
+758,21.4243264,41.9963262,Mosh,,,,,restaurant
+759,21.4323639,41.9958593,Burger King,burger,,,,fast_food
+760,21.4186405,42.0026188,Metzka,,,,,restaurant
+761,21.4209535,42.0000999,Stobi Winery,,,,,pub
+762,21.4243092,41.9942446,Davidoff,,,,,restaurant
+763,21.4415279,42.0027517,Pizzeria Bik,,,,,restaurant
+764,21.4380383,42.0011296,Old Balkan,,,,,restaurant
+765,21.4371206,42.0025774,Kursumli An,,,,,restaurant
+766,20.8127566,41.1236253,Mar-mar,,,,,fast_food
+767,20.8003256,41.1145687,Alpi,,,,,restaurant
+768,20.8110765,41.1141181,Meze Bar 10,,,,,pub
+769,20.8078783,41.111976,Leopard,,,,,restaurant
+770,20.8056915,41.1103498,Amfora,,,,,restaurant
+771,20.7976565,41.1123938,Leonardo pizza,,,,,fast_food
+772,20.8070573,41.1122508,Centro,,,,,restaurant
+773,20.8107333,41.1139038,Pizzeria,,,,,restaurant
+774,20.8049184,41.1117071,Europa,,,,,restaurant
+775,20.7997732,41.1139841,Mr. Papo,,,,,fast_food
+776,20.7995706,41.1165763,Kebapcilnica,,,,,fast_food
+777,20.8054718,41.115284,Roast chicken,,,,,fast_food
+778,20.80978,41.1069136,Orfej,,,,,restaurant
+779,20.7989377,41.1168029,Wkusno,,,,,fast_food
+780,20.8066516,41.1079577,Madera,,,,,restaurant
+781,20.7334779,42.2165611,Ushqim i shpejt,,24-Jul,Jusuf Gervalla,,fast_food
+782,20.7415278,42.2253795,Caffe Gimi,,Mo-Su 18:00-00:00,Leka i Madh,,restaurant
+783,20.7421114,42.2093803,Bea's,,,,,fast_food
+784,20.741478,42.2091657,burger,burger,,,,fast_food
+785,20.7417045,42.2092457,Banana Split Plus,,,,,fast_food
+786,20.7422774,42.2094212,Chicken Express,,,,,fast_food
+787,20.7388505,42.2334196,Classic,,,,yes,restaurant
+788,21.4009703,42.0030579,Буре лептокарија,,,,,restaurant
+789,21.4352029,41.993295,Ресторан Национал,,,,,restaurant
+790,21.4283137,41.996324,Кај Јоле,,,,,restaurant
+791,20.7245667,42.2150356,Sarajeva Grill,,,,,restaurant
+792,20.7244648,42.2149541,Koha,,,,,restaurant
+793,20.7243897,42.2150197,Sach Pizza,pizza,,,,restaurant
+794,21.4157772,42.0062237,Рок Кафана Рустикана 2.0,barbecue;burger;american;breakfast;balkan,Mo-Sa 10:00-24:00,Булевар Илинден,,restaurant
+795,22.7229882,41.1838446,Сендвичара Џина,,,Кај 5 ти Ноември,,fast_food
+796,22.722996,41.1838017,Форти Сендвич Бар,,,Кај 5 ти Ноември,,fast_food
+797,22.7224768,41.1839779,Тоби,,,Маршал Тито,,restaurant
+798,22.7229174,41.1835605,Ресторан Вавилон,pizza;greek,Mo-Su 08:00-23:00,Маршал Тито,,restaurant
+799,22.7230699,41.1833727,Боеми,,Mo-Su 08:00-23:00,Маршал Тито,,restaurant
+800,22.7232486,41.1834248,Казабланка,,,Кај 5 ти Ноември,,restaurant
+801,22.7233718,41.1830341,Нота,,,Маршал Тито,,restaurant
+802,21.1694656,42.2942973,Restaurant Casa,,Mo-Su 08:00-23:00,10 Gushti,,restaurant
+803,21.4147058,42.0046693,Скадарлија,international,,Орце Николов,separated,restaurant
+804,20.5878142,41.2404084,Ресторан Република,barbecue;balkan,Mo-Su 10:00-23:00,Вевчани,,restaurant
+805,20.7207996,40.9030132,Taverna KOÇO,,,,,restaurant
+806,20.7214904,40.9026617,Restorant Peshku,,,,,restaurant
+807,20.722207,40.9031788,Korca Restorant,,,,,restaurant
+808,20.7215953,40.9017912,Rritja e Koranit,,,,,restaurant
+809,20.7200543,40.9016352,Bujtina Alpine,,,,,restaurant
+810,20.7198274,40.9017893,Shtëpia e Vjeter,,,,,restaurant
+811,20.7191071,40.9024686,Restaurant Elvis,,,,,restaurant
+812,20.7196672,40.9016184,Duart e Arta,,,,,restaurant
+813,20.7132777,40.900901,Vila ART,,,,,restaurant
+814,20.7199401,40.9026603,Tushemisht Bar Restorant,,,,,restaurant
+815,20.7203555,40.902713,Ja Marena,,,,,restaurant
+816,20.7121419,40.9002958,Egnis,,,,,restaurant
+817,20.709912,40.9011851,Arbi,,,,,restaurant
+818,21.2203853,42.2668662,Restaurant Trofta Verrishtë,fish;chicken;international;coffee_shop;cake,Mo-Su 08:00-00:00,Beteja e 25 Majit,,restaurant
+819,21.2336815,42.2572046,Restaurant Beni,pizza;coffee_shop;sandwich;kebab;chicken;international,,,,restaurant
+820,21.2376734,42.2486597,Art Restaurant,pizza;regional;coffee_shop;sandwich;kebab;international,,,,restaurant
+821,21.257105,42.2296881,Art Caffee,pizza;regional;burger;coffee_shop;sandwich;international,Mo-Su 08:00-00:00,Ismail Raka,,restaurant
+822,20.9705086,42.0087985,CITYGRILL Tetove,,Mo-Su 08:00-23:00,Илинденска,,restaurant
+823,20.5860329,41.0701925,Europa Restaurant,,,,,restaurant
+824,22.1979387,41.7482188,Tornado Lounge Bar,,,,,restaurant
+825,21.3563369,41.204736,Kaj Zlate,,Mo-Su 11:00-00:00,,,restaurant
+826,21.4789759,41.9791956,Гранд Бургер,,,,,fast_food
+827,21.4308681,41.9923177,Per te,,,,,fast_food
+828,22.4500241,40.9459673,Όαση,,,,,fast_food
+829,20.9632525,41.5120219,Pizzeria Yahoo,,,,,restaurant
+830,20.9575863,41.5110368,Lounge Bar Bacardi,,,,,restaurant
+831,20.9586947,41.5106546,Lounge Bar New Age,,,,,restaurant
+832,21.1919659,42.2742357,UDA restaurant,,,,,restaurant
+833,21.0605131,40.9718757,Sunset Restaurant,balkan,,,,restaurant
+834,20.9085717,41.7912806,Burektore Saq,,,,,restaurant
+835,21.9401845,41.8645123,Пицерија Леа,pizza,,,,restaurant
+836,21.9427115,41.8650539,Пицерија Ти Амо,pizza;coffee_shop;burger;grill;wine;beer,Mo-Su 08:00-24:00,Плоштад Илинден,,restaurant
+837,20.7205804,42.2260045,Roya Burger Prizren,,,Ismail Kryeziu,,fast_food
+838,21.9409363,41.8651003,Лучијано,,,,,fast_food
+839,21.9413929,41.8650133,Foody,,,,,fast_food
+840,21.9424303,41.8658394,Пијано Бар,,,,,restaurant
+841,21.3137576,41.8128659,Река,,,,,restaurant
+842,21.9422174,41.8679289,Тивка Ноќ,,,,,restaurant
+843,21.9420944,41.8680609,Швајцарија,,,,,restaurant
+844,20.743276,42.2174301,Pizzeria Linda,chicken;kebab;pizza;sandwich,24-Jul,Ahmet Prishtina,,restaurant
+845,21.5382215,41.3503836,Делфина,macedonian,,Пере Тошев,,restaurant
+846,21.5555548,41.3332719,Кермес,macedonian,,Цар Самоил,,restaurant
+847,21.5551002,41.3466818,Ла Страда (Калипсо),pizza;macedonian,,Гоце Делчев,,restaurant
+848,21.5539582,41.3465843,Леоне,macedonian;pizza,,Гоце Делчев,,restaurant
+849,21.4097614,41.9974684,Сидро,,,Атинска,,restaurant
+850,20.7180363,42.2058969,Gjelltore Sharri,coffee_shop;grill,24-Jul,Masar Shala,,restaurant
+851,21.4263872,41.9968334,ЈЕС Паста,pasta,Mo-Fr 08:00-18:00; Sa 08:00-14:00,,,fast_food
+852,22.8751669,40.9929662,Low'n'Slow,,,Γαβριηλίδη,,restaurant
+853,22.8760343,40.9919115,Τραταμέντο Ποικιλία Γεύσεων,,,,,restaurant
+854,20.8001924,42.3016101,LaLuna,pizza;burger;coffee_shop;sandwich,24-Jul,Ymer Prizreni,,restaurant
+855,20.9446443,42.0241791,Restaurant Anes Lumit,,,Banjice,,restaurant
+856,20.6505595,42.2351624,Restaurant Familjar Joni,,Mo-Su 08:00-22:00,Syzitë,,restaurant
+857,21.5156883,41.939595,PIZZA Bellucci,pizza;italian,Mo-Sa 10:00-00:00,,outside,restaurant
+858,20.55985,42.1631051,Restaurant Univers,,,,,restaurant
+859,21.4162609,42.0009144,Subzy,sandwich,Mo-Fr 09:00-19:00; Sa 11:00-19:00,Дане Крапчев,,fast_food
+860,21.2620245,42.1618789,Alban,chicken;kebab;pizza;beef,,Epopeja e UÇK-së,,restaurant
+861,21.3387635,41.023422,Giradiko,,,,,fast_food
+862,20.6680332,42.1782711,Restaurant Burimi Gurrës,,,,,restaurant
+863,20.6969687,42.2019627,NTSH Begi,,,,,restaurant
+864,20.7147725,42.2046862,Qebaptore Agimi,,,,,restaurant
+865,20.7170822,42.2046236,Qebaptore Te DUTI,,,,,restaurant
+866,20.7201791,42.2056011,Fast Food Hoda,,,,,fast_food
+867,20.7197063,42.2055756,LIFE BURGER,,,,,fast_food
+868,21.4276555,41.9942708,Paradise Food,,Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 08:00-20:00,Даме Груев,,restaurant
+869,21.4283944,41.9931575,Brisket Sandwich Bar,sandwich;burger;chips,,,,fast_food
+870,20.5531721,41.0704594,Mimi restaurant,,,,,restaurant
+871,20.6352894,41.0975365,Езерски Рај,fish,,,,restaurant
+872,20.7320891,42.2060824,Burger Food,,,Lekë Matrënga,,fast_food
+873,20.7406491,42.2090755,Pasta Fasta,,,,,fast_food
+874,20.7421521,42.2098026,Twisted Patato,,,,,fast_food
+875,20.7423439,42.2099791,Dante,,,,,restaurant
+876,20.7323645,42.2060838,Qebaptore-Gjelltore Kulla,,,Lekë Matrënga,,fast_food
+877,20.7441614,42.2120993,"Qebaptore ""Afrimi""",,,Ralin Marash,,fast_food
+878,20.7262103,42.2118716,KFC,,,Tirana,,fast_food
+879,20.7242423,42.2149208,Sach Pizza,,,Tirana,,fast_food
+880,20.7410046,42.2149871,Boutique Burger,,,Nuredin Shala,,fast_food
+881,20.7432524,42.2168296,Qebaptore Hyska,,,Bazhdarhane,,fast_food
+882,20.7404908,42.2083155,Vintage,,,,,fast_food
+883,20.7322016,42.2060533,"Qebaptore ""Kulla""",,,,,fast_food
+884,20.7343571,42.2195388,Restaurant Arbri,,,,,restaurant
+885,20.7335659,42.2061777,Nita,,,terezi mahall,,fast_food
+886,20.7343419,42.2062654,Qebaptore meli,,,ismet jashari kumanova,,fast_food
+887,20.7325622,42.2151427,te Taverna,,,,,restaurant
+888,21.3855189,42.0091204,Кај чичо 2,,Mo-Sa 09:00-24:00; Su 12:00-20:00,,outside,restaurant
+889,20.7335923,42.210399,Qebaptore linda,,,remzi ademaj jm,,fast_food
+890,20.7336059,42.2105295,Qebatore Apetit,,,Xhelal Xhibo,,fast_food
+891,20.7358878,42.2104139,Abazaj,,,Shaban Jashari,,fast_food
+892,20.737261,42.210013,Qaza grill,,,astrit suli,,fast_food
+893,20.8005464,41.114489,Doner Kebap Hari,,,,,fast_food
+894,21.9437258,41.578961,Kaj лаки,,,,,restaurant
+895,22.9997746,41.2594118,Δέδης,,,,,restaurant
+896,21.2971389,42.1519099,Expres,,,Adem Jashari,,restaurant
+897,21.2957468,42.1526472,Fast food,,,Martirët bushi,,fast_food
+898,21.3138592,41.0273649,Ројал Бургер,,Mo-Su 09:00-00:00,,,fast_food
+899,20.7425535,42.2164466,Fresh Burgers,fast_food,Mo-Su 09:00-23:00,Adem Jashari,,fast_food
+900,21.2626435,41.0345273,Villa Vista,,,,,restaurant
+901,21.3373971,41.0300455,Билјард Клуб - Муло,,Mo-Su 17:00-01:00,,,pub
+902,21.9393634,40.9688895,Καρατζοβίτισσα,,,,,restaurant
+903,21.3366265,41.0266555,Буре,,,,,restaurant
+904,21.3365076,41.0273766,Равена,,,,,restaurant
+905,21.3371573,41.0270204,Корзо,,,,,restaurant
+906,21.3374821,41.0282053,Бела Куќа,,,,,restaurant
+907,21.3157954,41.0245246,Качунка,,,,,restaurant
+908,21.3332771,41.0312779,Mickey pizza,,,,,fast_food
+909,20.7579455,41.7026712,Lounge Bar Mavrovo,,,,,restaurant
+910,21.4206316,42.0013583,Fluffy,waffle,,,,fast_food
+911,21.4542028,41.9866451,Equilibrium,,,,,restaurant
+912,20.6284957,42.3183518,Restaurant Xaja,,,,,restaurant
+913,21.3355359,41.0264068,Гала Гарден,,,,,restaurant
+914,21.2494189,41.368863,Dva Lovci,,,,,pub
+915,20.8048774,41.1130145,oTTo,sushi,11:00,Dimitar Vlahov,,restaurant
+916,20.5537542,42.1812879,Restaurant Pashtriku,,,,,restaurant
+917,21.7219653,42.1238452,Екслузив Бастион,,,,,restaurant
+918,20.7315291,42.2121504,Saraieva Grill,,,,,fast_food
+919,20.7404056,42.2157301,Orland,,,,,fast_food
+920,20.7339078,42.2131723,€ Burger,,,,,fast_food
+921,20.7351368,42.2121324,Chicken express,,,,,fast_food
+922,20.7379712,42.2151298,Fegato,,,,,restaurant
+923,20.7463913,42.2113699,Mullini,,,,,restaurant
+924,20.8013591,41.1166832,Corner,,,,,restaurant
+925,20.8000296,41.1182878,Kaj Tzitzo,,,,,restaurant
+926,20.6578063,40.9008921,Pizza Benvenuto,,,,,fast_food
+927,21.1812805,42.2757047,Nytura Restaurant,,Mo-Su 09:00-22:00,,,restaurant
+928,21.4142957,42.0006689,Mexican street food,,,,,restaurant
+929,21.4171327,41.997055,Boko,,,,,restaurant
+930,21.4395663,42.003309,Plaset,,,,,fast_food
+931,21.4252785,41.9932172,Spizzicotto,,,,,fast_food
+932,21.4175082,42.0029207,18,,,,,pub
+933,20.791588,41.1108108,Potpes,,,,,restaurant
+934,21.4190485,41.992373,Конструкта,,,Васил Ѓоргов,,restaurant
+935,21.4021466,41.9960393,Македонска куќа,regional,08:00-24:00,Mitropolit Teodosij Gologanov,,restaurant
+936,21.428386,41.996695,Custom Pub,,,,,pub
+937,21.3405655,41.0173918,Император,,,,,restaurant
+938,21.3349568,41.0303546,Грне,regional,,Плоштад Магнолија,outside,restaurant
+939,20.7406899,42.2092334,Verona,turkish,07:00-23:00,,yes,restaurant
+940,21.4237388,41.9953323,Ресторан 2 Златника,,,Митрополит Теодосиј Гологанов,,restaurant
+941,21.4226605,41.9973394,Керпич,,,Дебарца,,restaurant
+942,21.4220934,41.9962023,Дане,regional,,Киро Крстевски Платник,,restaurant
+943,21.422204,41.995115,Ка,grill;local,,Митрополит Теодосиј Гологанов,,restaurant
+944,21.4182853,41.9954805,Ѓезме,regional,,,,restaurant
+945,21.422976,41.9989973,Мечос,pizza,,Аминта Трети,,restaurant
+946,21.3743398,41.976999,Св.Пантелејмон - Клет,regional,,,,restaurant
+947,21.756239,41.7788767,Bela Voda,balkan,Mo-Su 09:00-00:00,,,restaurant
+948,21.7446381,42.121648,Стара Бања,,,,,restaurant
+949,21.422252,41.9976014,"Pizza Delivery ""Mamma Italiana""",pizza;пастрмајлија,,Аминта Трети,,fast_food
+950,21.4622374,42.0030645,Боними,,,Трифун Хаџијанев,,restaurant
+951,21.4599001,41.9979315,Дојрана,,,,,restaurant
+952,21.424371,42.0006254,Pepper,regional,,Аминта Трети,,fast_food
+953,21.4239688,41.9996894,Sushi Ко,chinese;thai;japanese;sushi,Su-Th 12:00-23:00; Fr-Sa 10:00-00:00,Аминта Трети,separated,restaurant
+954,21.4107344,42.0060096,Лира,regional,09:00-24:00  Fr-Sa 09:00-01:00,Никола Тесла,separated,restaurant
+955,21.4271079,42.0007229,Special Beer Bar COSY,,Tu-Th 16:00-00:00  Fr-Sa 16:00-01:00; Su 16:00-00:00,Булевар Климент Охридски,outside,pub
+956,21.4384354,41.9968367,Стара куќа,regional,,Пајко Маало,separated,restaurant
+957,21.4113588,42.0072144,Tribeca - Botanic Shop & Cafe,,,,,pub
+958,21.4097243,42.0096654,Балканика,regional,,,separated,restaurant
+959,21.4220098,42.006134,Уранија,,,,,restaurant
+960,21.427251,41.9957135,Ѕвезден Океан,chinese,,,,restaurant
+961,21.4140445,42.0081706,Ресторан Маргер,regional,08:00-24:00  Fr-Sa 08:00-01:00,Булевар Илинден,,restaurant
+962,22.3517411,41.3912335,Белов 113,,,,,restaurant
+963,21.4099117,42.0850789,Национален Ресторан Чардак,macedonian,,,,restaurant
+964,21.4107439,42.0863291,Вила Весница,macedonian,,,,restaurant
+965,21.7302575,42.1535677,Сателит 2000,,,,,restaurant
+966,21.6778762,41.3706233,Че,,,,,restaurant
+967,21.1571267,41.2284641,Вила Горна Куќа,,,,,restaurant
+968,21.9239251,40.9653174,Κόκκινο Πιπέρι,,,,,restaurant
+969,20.7426283,40.9141722,Острово,,,,,restaurant
+970,21.5510411,41.3429717,Европска Скара,,,,,restaurant
+971,21.5571542,41.3472201,Македонска Куќа,macedonian,,Јоска Јорданоски - Сандански,,restaurant
+972,21.5512171,41.3431556,Златно Буренце,,,,,restaurant
+973,21.2482062,41.3682287,Андора,pizza,,Таќа Бербер,,restaurant
+974,20.9704191,42.0016809,Arena,,,,,restaurant
+975,20.9556657,41.5049147,Luna,regional,,,yes,restaurant
+976,20.6955979,42.2012896,restaurant durimi,,,,,restaurant
+977,20.7525063,42.2421326,Alegria,,,,,restaurant
+978,20.951589,41.5170907,Milenium,regional,,,,restaurant
+979,21.677938,41.3704576,Че,,,,,restaurant
+980,20.52871,42.1466705,"Restaurant ""Vëllezërit Sylaj""",,,,,restaurant
+981,21.4466299,41.9892137,Рулет,,,,,restaurant
+982,20.9183388,41.5211545,House of Art,,,,,restaurant
+983,21.4372289,41.9914872,Zlatno petle,,,,,fast_food
+984,21.4260724,42.0015806,Sopotsko,,,,,restaurant
+985,20.960827,41.9881358,600,balkan;pizza;burger,Mo-Su 08:00-23:00,,,restaurant
+986,20.9609075,41.9883874,601,,,,,restaurant
+987,20.9608223,41.9879359,600,balkan;international,,,,restaurant
+988,21.4085865,42.004176,Iva,burger,Mo-Fr 08:00-18:00,,,fast_food
+989,23.0000629,41.2597843,Κομπολόι,regional,,,,restaurant
+990,22.999851,41.2596653,ΔΕΔΗΣ ΑΘΑΝΑΣΙΟΣ,regional,,,,restaurant
+991,22.9991524,41.2598982,ΣΤΡΑΤΟΣ,,,,,fast_food
+992,22.9997701,41.2596876,Δέδης Αθανάσιος,,,,,restaurant
+993,22.9994961,41.2592665,"ΚΑΦΕ-ΨΗΣΤΑΡΙΑ ""Ο ΠΛΑΤΑΝΟΣ"" ΜΕΛΙΚΙΔΗΣ ΜΙΧ.",mediterranean,,,,restaurant
+994,22.9986214,41.2601371,"Πιτσαρία ""Διόνυσος""",pizza,,,,restaurant
+995,22.9998933,41.2599602,Maria's Corner,,,,,fast_food
+996,22.9892897,41.2395004,ΑΧΙΛΛΕΙΟΝ,greek,,,,restaurant
+997,21.5752234,41.9943076,Doma,,,,,restaurant
+998,20.7945146,41.1124497,Дамар,regional,8:00 - 23:30,Коста Абраш,outside,restaurant
+999,20.7942442,41.1126067,Света Софија,regional,,Цар Самоил,outside,restaurant
+1000,20.7940517,41.1124925,Вија сакра,pizza,9:15 - 01:00,Цар Самоил,outside,restaurant
+1001,21.7177789,42.1351258,Максим,,,,,fast_food
+1002,21.4374003,41.9931176,Kуќа,regional,,,,restaurant
+1003,20.7310126,42.215393,Villa 100,regional,,,,restaurant
+1004,22.0908504,41.4824789,Пицерија Ема,pizza,,,,restaurant
+1005,21.2704742,41.0410326,Гамур,regional,,,,restaurant
+1006,21.441485,41.9944607,Ресторан Кej,,,Кеј 13 Ноември,,restaurant
+1007,21.4145693,42.00006,Бравос,regional;pizza,,Адолф Циборовски,,restaurant
+1008,20.7902437,41.1110905,Kaнeo,,,,,restaurant
+1009,21.9395212,40.9674421,ΤΣΟΛΙΑΣ,,,,,restaurant
+1010,21.5398694,41.3547088,Хотел Салидда,,,,,restaurant
+1011,21.429626,41.9891201,Od Nas Za Vas,regional,,,,restaurant
+1012,21.5519754,41.3465015,Букефал,,,,,restaurant
+1013,21.6907316,41.8806852,Grill Bar,regional,,,outside,fast_food
+1014,21.5392403,41.3383143,Дониа,regional,,,,restaurant
+1015,21.5404649,41.3393269,Лав,macedonian;seafood,,Трајко Николоски,,restaurant
+1016,21.5486194,41.3433883,Липа ГА,macedonian,,,,restaurant
+1017,21.3924371,42.0017015,Скара Бар,regional,08:00-24:00,Варшавска,separated,restaurant
+1018,20.5171739,42.2888115,"Restaurant ""Gurra""",,,,,restaurant
+1019,21.5490712,41.3434722,Империјал,,,Борка Утот,,restaurant
+1020,21.5481737,41.3427434,Жито Прилеп 1,,,Димо Димоски-Наредникот,,restaurant
+1021,21.4131896,41.9948411,Воденица,italian,,,,restaurant
+1022,21.4129989,41.9948965,Дукат,regional,Mo-Fr 08:00-24:00; Sa Su 00:00-01:00 08:00-24:00,Митрополит Теодосиј Гологанов,separated,restaurant
+1023,21.3908,41.9996349,Кaфе бар „Форца“,regional,Mo-Su 00:00-01:00 08:00-24:00,Лондонска,separated,pub
+1024,21.3918671,42.0018539,Ресторан 14,regional,,Лондонска,outside,restaurant
+1025,21.4059057,42.0137743,Ден и Ноќ,regional,,,,restaurant
+1026,21.4198501,41.9867827,Корнер / Баба Цана,regional,08:00 - 00:00,Партенија Зографски,,restaurant
+1027,21.4198115,42.0010431,Skopski Merak,regional,Mo-Su 00:00-01:00 08:00-24:00,Дебарца,separated,restaurant
+1028,21.3016376,41.9640751,Kulla Alinea,regional,,,,restaurant
+1029,22.7708091,41.9659577,Ресторан Македонија,,,Маршал Тито,,restaurant
+1030,21.3905927,42.0440002,Aktiva,,,,,restaurant
+1031,22.7730519,41.9642798,Гостилница Кај Мите,,,Маршал Тито,,restaurant
+1032,20.7111886,40.901371,Restorant Dashnorja E Fundit,regional,,,,restaurant
+1033,21.4258146,42.003496,Томче Софка,,,Јордан Хаџиконстантинов Џинот,,restaurant
+1034,21.4403078,41.9899916,Калабалак,,,,,restaurant
+1035,20.7395524,42.2093416,Te Syla,,,,,restaurant
+1036,20.9012962,40.9445244,мали рај,regional,10:00-01:00,,,restaurant
+1037,21.425958,41.9898961,Јавна Соба,regional,08:00-24:00,50-та дивизија,no,restaurant
+1038,20.8865121,42.0130612,бачцло,,,,,restaurant
+1039,20.9190809,42.0110805,Шар,albanian,,,separated,restaurant
+1040,21.5874617,41.9825664,Rozenberg,regional,,,,restaurant
+1041,21.4286482,42.0487648,Imperial,local,,,,restaurant
+1042,21.4138473,41.9069237,Регент Клуб,,,,,restaurant
+1043,21.4014254,42.0013528,Restoran Olive,regional,Mo-Sa 09:00-24:00,Париска,outside,restaurant
+1044,21.4094849,41.9954379,Фурна,,,,,restaurant
+1045,21.435629,42.0003192,Пивница Стар град,regional,Mo-Su 00:00-02:00 09:00-24:00,Градиште,separated,pub
+1046,21.4573278,42.1140737,квин рибник,fish,Mo-Su 11:00-00:00,,,restaurant
+1047,22.903098,42.2048389,bar caffee ok per T Stop,,,,,restaurant
+1048,20.7972079,42.2985673,Restaurant Freskimi,pizza;burger;coffee_shop;sandwich;steak_house,Mo-Su 09:00-21:00,Ymer Prizreni,,restaurant
+1049,21.2094953,42.2977979,Evropa 92,,,Doda,,restaurant
+1050,21.5221413,41.3436319,Теракота,,,,,restaurant
+1051,21.5274279,41.3450377,Лаки,pizza;barbecue;macedonian,,Леце Котески,,restaurant
+1052,21.0085899,42.2194755,Tiffany National Restaurant,regional,,,,restaurant
+1053,21.436943,41.9901284,Винчиторе Пица,,,,,fast_food
+1054,21.439194,41.9895322,Ла Тана,,,,,restaurant
+1055,21.4394294,41.9897235,Амиго,,,,,restaurant
+1056,21.4393643,41.989645,Кај Злате,regional,,,,restaurant
+1057,21.4379661,42.0011507,Галерија 7,turkish,,,,restaurant
+1058,22.1861206,41.7441588,Мал-Одмор,,,,,restaurant
+1059,22.1899973,41.7439712,ЗАКИ 1,,,,,restaurant
+1060,22.1845728,41.7472817,Златна рипка,,,,,restaurant
+1061,22.1839834,41.748514,НЕЦКО 2,,,,,restaurant
+1062,22.1787768,41.7515502,Ресторан Ваго,,,,separated,restaurant
+1063,22.1813055,41.7480225,Меана за Мерак,,,,,restaurant
+1064,22.1834691,41.7475759,Лонгуров,,,,,restaurant
+1065,21.5907654,41.9908873,Black Pearl,regional,,,outside,restaurant
+1066,22.055579,42.1027558,Kuklica,regional,,,,restaurant
+1067,21.4365646,41.9947102,Тетекс,burger,,,,fast_food
+1068,21.4458855,42.011451,Erdi,,,Сараевска,,restaurant
+1069,21.4465923,42.0111565,Vesa,,,Сараевска,,restaurant
+1070,21.4452479,42.011735,Alba,,,Сараевска,,restaurant
+1071,21.4353613,42.0082074,Dielli,,,,,restaurant
+1072,21.4358749,42.011987,Golden Mili,,,Пере Тошев,,restaurant
+1073,21.4287397,42.0013874,Кај Жабарот,,,,,restaurant
+1074,21.4791372,42.0033524,Гостилница Мерак,regional,,,,restaurant
+1075,21.4220947,42.0023254,Читална,regional,,,outside,restaurant
+1076,21.4221788,42.0020431,Чардак,regional,,,,restaurant
+1077,21.4208744,42.000611,Стоби,,,,,pub
+1078,21.4202966,42.0009183,Наша софра,,,,,restaurant
+1079,21.420484,42.0015901,Дебар Маало,,,,,restaurant
+1080,21.4209447,42.0012484,Гурмет,regional,09:00-24:00  Fr-Sa 09:00-01:00,Отон Жупанчич,,restaurant
+1081,21.4214709,42.0014088,Наџак,,,Мирослав Крлежа,,restaurant
+1082,21.4222441,42.0016502,Kancelarija,,,,,restaurant
+1083,21.4223869,42.0022738,Ganzoni,,,,,fast_food
+1084,21.4220786,42.0021418,Чамо,,,,,restaurant
+1085,21.4222887,42.0021744,Ganza,,,Ѓорѓи Пешков,,restaurant
+1086,21.4194824,42.0012248,Antica,regional,,Дебарца,,restaurant
+1087,21.4234163,41.9973994,7,,,,,fast_food
+1088,21.4235545,41.9974066,7,,,,,fast_food
+1089,21.4238302,41.9973774,Like Gyros,greek,,,,fast_food
+1090,21.4580102,42.0007359,Кремисимо 2,,,,,restaurant
+1091,21.5241504,42.3109319,Gryka e Karadakut,,,,,restaurant
+1092,21.4067262,42.0062332,Bonimi,regional,Mo-Su 20:00-24:00,Булевар 8-ми Септември,,restaurant
+1093,21.4065102,42.0062805,Барбакан,,08:00-01:00,Булевар 8-ми Септември,,restaurant
+1094,21.5567872,41.3449609,Бисер,traditional,,1. Мај,,restaurant
+1095,21.4526831,41.6515719,Ribnik,seafood,,,,restaurant
+1096,21.3570101,42.3163012,Te Serveti,kebab,,,,fast_food
+1097,21.3863306,42.0055378,Ренде,,,,,fast_food
+1098,20.5324362,42.2778591,Restorant LgjSh,regional,,,yes,restaurant
+1099,21.4121661,42.0048265,4 Angeli,,Mo-Sa 08:00-24:00,,,restaurant
+1100,20.5140262,42.2876977,Restorant Kroni,regional,06:00-23:00,Kroi i madh,yes,restaurant
+1101,20.7132969,42.2315008,Imperial,burger;regional;pizza;italian;chicken;coffee_shop;ice_cream;fish_and_chips;international,Mo-Sa 08:00-23:00,,yes,restaurant
+1102,20.741956,42.2100482,Aurora,,,,no,restaurant
+1103,22.0002842,42.1489108,Чешмиче,,,На Чешмиче,,restaurant
+1104,20.6689529,41.1725935,Конак,,,,,restaurant
+1105,20.6761792,41.174184,Женска Плажа,,,,,restaurant
+1106,20.6733996,41.1751769,Црвен Мак,,,Пабло Неруда,,restaurant
+1107,20.6718637,41.1763912,Оаза,,,,,restaurant
+1108,20.6743731,41.1765939,Св. Георгиј,,,,,restaurant
+1109,20.674498,41.1766005,Бриони,,,,,restaurant
+1110,20.675725,41.1757803,Буренце,,,,,restaurant
+1111,20.6743721,41.176785,Маива,,,,,restaurant
+1112,20.6742239,41.1768179,Драган и Јовче,,,,,restaurant
+1113,20.6782676,41.1762454,Св. Никола,,,Гоце Делчев,outside,restaurant
+1114,22.8740466,40.9886325,Της Πόπης...,,,,,restaurant
+1115,20.6784247,41.1764555,Антико,,,,,restaurant
+1116,20.6785312,41.1768736,Ангела,,,,,restaurant
+1117,20.6763375,41.1758033,13,,,,,restaurant
+1118,21.5906669,41.3842271,Мир,,,,,restaurant
+1119,21.7184498,42.1308159,Mosha Mel,,,,,restaurant
+1120,21.718759,42.1307697,Yard,,,,,restaurant
+1121,21.0326279,42.1818108,Braca,,,,,restaurant
+1122,21.0330103,42.181782,Munika,,,,,restaurant
+1123,21.4919316,41.9519545,Ваташа пекара,,,Борис Трајковски,,restaurant
+1124,21.4693029,41.9670412,Везилка,,,Борис Трајковски,,restaurant
+1125,21.4691124,41.9672697,Дениција,,,Борис Трајковски,,restaurant
+1126,21.4392501,41.9827405,Пицерија Ди Наполи,pizza,,Иван Козаров,,fast_food
+1127,22.1930517,41.7376006,Бамби 2,,,,,fast_food
+1128,22.183685,41.7474384,Бисер Митре,,,,,restaurant
+1129,21.4470613,42.1733791,Hamza Brez,regional,,,outside,restaurant
+1130,21.3803929,42.0258581,Krcma Zuto Kombe,regional,,,outside,restaurant
+1131,21.0240002,42.2385342,Restaurant Pizzeria ''Čair'';Čair,pizza;barbecue;chicken,Mo-Su 10:00-22:00,,,restaurant
+1132,21.4504097,42.3058118,Ilyricum park,,,,,restaurant
+1133,20.8931549,41.79492,Деде Бег,,,Јна,,restaurant
+1134,20.9049684,41.790163,Пела,italian,,"ул. ""Живко Брајковски""",,restaurant
+1135,20.8001293,42.2959582,Restaurant Estrada,,,,,restaurant
+1136,20.751944,42.2205042,La Baita,,,,,pub
+1137,20.7507901,42.2174704,Antalya,,,,,restaurant
+1138,21.9561013,40.915835,Παραδοσιακη Ταβερnα,greek;salad;fries;souflaki;βιφτέκι;steak;tzatziki,,,,restaurant
+1139,20.7411754,42.2085063,Qarshia,,,Marin Barleti,,pub
+1140,22.4795327,41.1841395,Центар,burger;sandwich;kebab;barbecue,,,,restaurant
+1141,22.6387434,41.4412451,Shalom,regional;pizza;pasta;dessert;sushi;fish;meat;chicken;pastrmajlija,,,,restaurant
+1142,21.5499886,41.3457396,Академи,pizza;burger;national;barbecue,,Кузман Јосифоски-Питу,,restaurant
+1143,21.9044966,41.4756164,Јавор,fast_food;macedonian,,,,restaurant
+1144,21.086233,41.2985085,Бабино,macedonian,,,,restaurant
+1145,21.5448238,42.2662952,Maja e Zeze,regional,,Agim Ramadani,,restaurant
+1146,21.5647214,41.3450184,Алтан,macedonian,,Александар Македонски,,restaurant
+1147,21.4852834,41.975817,Куц у Кец (Панда),regional,,Тодор Чангов 20,,restaurant
+1148,20.6834625,41.5002888,Margule,,Mo-Sa 08:00-20:00,,,restaurant
+1149,21.074435,41.2643585,На Валајци,macedonian,,,,restaurant
+1150,21.7777262,41.3909368,Крпачов Камен,macedonian,Mo-Su 11:00-20:00,,,restaurant
+1151,20.7783931,42.1255011,N'Bjeshkë Agroturizëm,,,,,restaurant
+1152,20.7887811,42.123111,Restaurant Stanet e Struzhës,,,,,restaurant
+1153,21.5557143,41.3469009,Ај По Една,macedonian,,Илинденска,,restaurant
+1154,21.5555988,41.3464693,Стара Чаршија,macedonian,,Илинденска,,restaurant
+1155,21.5588877,41.3478268,Две Лири,macedonian,,Јоска Јорданоски - Сандански,,restaurant
+1156,21.5551634,41.3463028,Дел Посто,italian;macedonian,,Илинденска,,restaurant
+1157,21.5555766,41.3449815,Евро,macedonian,,Херој Карпош,,restaurant
+1158,21.7150071,41.1962534,Мариово,macedonian,,,,restaurant
+1159,21.5516335,41.3445726,Изгрев,,,Сотка Ѓорѓиоски-Сотка,,restaurant
+1160,21.5494325,41.3459891,Кекеле,macedonian,,Кузман Јосифоски-Питу,,restaurant
+1161,21.5559189,41.3455655,Кај Џоки,macedonian,,Херој Карпош,,restaurant
+1162,21.5520928,41.3445122,Александрија,macedonian,,Сотка Ѓорѓиоски-Сотка,,restaurant
+1163,21.55654,41.3463678,Лидер,macedonian,,Браќа Ламески,,restaurant
+1164,20.6970709,42.2019361,NTSH Begi,,,,,restaurant
+1165,21.2491931,41.3678441,Рома,pizza,,,,restaurant
+1166,21.2455515,41.3734272,Крушевска Одаја,macedonian,,Тодор Проески-Тоше,,restaurant
+1167,21.2457311,41.3736817,Либра,macedonian,,,,restaurant
+1168,20.8001998,42.3015833,Laluna,burger;pizza;coffee_shop;sandwich,24-Jul,Ymer Prizreni,,restaurant
+1169,21.2934505,42.1510269,Oslo,,Mo-Sa 08:00-20:00,Lepenci,,restaurant
+1170,21.2620157,42.1618851,Alban,burger;pizza;chicken,,Epopeja e UÇK-së,,restaurant
+1171,21.2596803,42.1616472,Brava,burger;pizza;chicken;sandwich,,Epopeja e UÇK-së,,restaurant
+1172,20.6689002,42.1986696,Restaurant Moni,,,,,restaurant
+1173,20.7147944,42.2046543,Qebaptore Agimi,,,,,restaurant
+1174,20.7170738,42.2046527,Qebaptore Te DUTI,,,,,restaurant
+1175,20.7182071,42.2053596,Restaurant Diti,,,,,restaurant
+1176,20.7201938,42.2055951,Fast Food Hoda,,,,,fast_food
+1177,20.721975,42.2064304,Natyral Plus,,,,,restaurant
+1178,21.4409802,41.4090904,Империја,macedonian,,,,restaurant
+1179,21.2022213,41.2174258,Кај Стакето,,,Гоце Делчев,,fast_food
+1180,21.9457575,41.8633689,Мечкуевска Куќа - Пуже,,Mo-Su 09:00-01:00,,,restaurant
+1181,21.3365953,41.0263954,Цане Боксеро,,,,,restaurant
+1182,20.9167078,42.2888266,Hotel Restaurant Gështenja,,,,,restaurant
+1183,22.1004103,42.207343,Restaurant Ranch,,,,,restaurant
+1184,21.3602597,41.1026559,Златен Даб,,,,,restaurant
+1185,21.0271864,42.0670341,Лешок,macedonian,,,,restaurant
+1186,21.5041443,41.3095361,Вила Малуш,,,,,restaurant
+1187,23.0000656,41.2595333,ΣΤΑΘΜΟΣ,Μπουγάτσα Πατσά,,,,restaurant
